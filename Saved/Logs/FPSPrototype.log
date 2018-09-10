@@ -379,3 +379,4 @@ LogInit: Object subsystem initialized
 [2018.09.10-21.54.46:385][  8]LogAssetRegistry: Asset discovery search completed in 80.6478 seconds
 [2018.09.10-21.54.46:433][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
 [2018.09.10-21.54.46:433][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.014243 seconds (updated 0 objects)
+[2018.09.10-21.57.30:712][501]LogConsoleManager: Warning: Performance warning: Console object named 'r.DebugSafeZone.Mode' shows many (500) FindConsoleObject() calls (consider caching e.g. using static)
