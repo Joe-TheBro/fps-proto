@@ -2885,3 +2885,22 @@ LogInit: Object subsystem initialized
 [2018.09.13-01.42.35:727][ 85]LogMeshUtilities: Finished distance field build in 4.5s - 64x64x64 distance field, 5 triangles, Range [-0.0, 1.0], City_147855644
 [2018.09.13-01.42.40:368][ 99]LogMeshUtilities: Finished distance field build in 4.6s - 64x64x59 distance field, 2 triangles, Range [-0.0, 1.0], City_第３体育館
 [2018.09.13-01.42.42:032][104]LogMeshUtilities: Finished distance field build in 1.6s - 64x64x20 distance field, 2 triangles, Range [-0.0, 1.0], City_544929791
+[2018.09.13-01.42.44:720][112]LogMeshUtilities: Finished distance field build in 2.9s - 64x64x36 distance field, 3 triangles, Range [-0.0, 1.0], City_544931881
+[2018.09.13-01.42.49:348][125]LogMeshUtilities: Finished distance field build in 4.7s - 64x64x64 distance field, 6 triangles, Range [-0.0, 1.0], City_146186486
+[2018.09.13-01.42.54:698][141]LogMeshUtilities: Finished distance field build in 5.4s - 64x64x63 distance field, 4 triangles, Range [-0.0, 1.0], City_147676524
+[2018.09.13-01.42.57:711][150]LogMeshUtilities: Finished distance field build in 2.8s - 64x64x39 distance field, 2 triangles, Range [-0.0, 1.0], City_186907756
+[2018.09.13-01.43.00:070][157]LogMeshUtilities: Finished distance field build in 2.6s - 64x64x36 distance field, 2 triangles, Range [-0.0, 1.0], City_544713790
+[2018.09.13-01.43.04:879][171]LogMeshUtilities: Finished distance field build in 4.7s - 64x64x64 distance field, 4 triangles, Range [-0.0, 1.0], City_７号館
+[2018.09.13-01.43.09:229][184]LogMeshUtilities: Finished distance field build in 4.5s - 64x64x64 distance field, 4 triangles, Range [-0.0, 1.0], City_146186485
+[2018.09.13-01.43.10:567][188]LogMeshUtilities: Finished distance field build in 1.3s - 64x64x17 distance field, 2 triangles, Range [-0.0, 1.0], City_544929775
+[2018.09.13-01.43.13:099][195]LogMeshUtilities: Finished distance field build in 2.4s - 64x64x35 distance field, 4 triangles, Range [-0.0, 1.0], City_544929773
+[2018.09.13-01.43.17:328][208]LogMeshUtilities: Finished distance field build in 4.2s - 64x64x41 distance field, 2 triangles, Range [-0.0, 1.0], City_544931886
+[2018.09.13-01.43.18:701][212]LogMeshUtilities: Finished distance field build in 1.5s - 64x64x18 distance field, 2 triangles, Range [-0.0, 1.0], City_147857307
+[2018.09.13-01.43.22:176][222]LogMeshUtilities: Finished distance field build in 3.2s - 64x64x44 distance field, 2 triangles, Range [-0.0, 1.0], City_186907757
+[2018.09.13-01.43.25:137][230]LogMeshUtilities: Finished distance field build in 2.9s - 64x64x41 distance field, 4 triangles, Range [-0.0, 1.0], City_186907758
+[2018.09.13-01.43.26:489][235]LogMeshUtilities: Finished distance field build in 1.7s - 64x64x21 distance field, 2 triangles, Range [-0.0, 1.0], City_147778557
+[2018.09.13-01.43.28:182][240]LogMeshUtilities: Finished distance field build in 1.7s - 64x64x24 distance field, 2 triangles, Range [-0.0, 1.0], City_544931887
+[2018.09.13-01.43.32:883][254]LogMeshUtilities: Finished distance field build in 4.6s - 64x64x64 distance field, 2 triangles, Range [-0.0, 1.0], City_147681768
+[2018.09.13-01.43.37:583][268]LogMeshUtilities: Finished distance field build in 4.6s - 64x64x58 distance field, 2 triangles, Range [-0.0, 1.0], City_144553399
+[2018.09.13-01.43.40:328][276]LogMeshUtilities: Finished distance field build in 3.0s - 64x64x30 distance field, 6 triangles, Range [-0.0, 1.0], City_147778559
+[2018.09.13-01.43.41:636][281]LogMeshUtilities: Finished distance field build in 1.3s - 64x64x18 distance field, 2 triangles, Range [-0.0, 1.0], City_147857308
