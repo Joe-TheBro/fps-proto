@@ -2904,3 +2904,1112 @@ LogInit: Object subsystem initialized
 [2018.09.13-01.43.37:583][268]LogMeshUtilities: Finished distance field build in 4.6s - 64x64x58 distance field, 2 triangles, Range [-0.0, 1.0], City_144553399
 [2018.09.13-01.43.40:328][276]LogMeshUtilities: Finished distance field build in 3.0s - 64x64x30 distance field, 6 triangles, Range [-0.0, 1.0], City_147778559
 [2018.09.13-01.43.41:636][281]LogMeshUtilities: Finished distance field build in 1.3s - 64x64x18 distance field, 2 triangles, Range [-0.0, 1.0], City_147857308
+[2018.09.13-01.43.47:039][296]LogMeshUtilities: Finished distance field build in 5.3s - 64x64x64 distance field, 6 triangles, Range [-0.0, 1.0], City_147778560
+[2018.09.13-01.43.49:717][304]LogMeshUtilities: Finished distance field build in 2.5s - 64x64x32 distance field, 2 triangles, Range [-0.0, 1.0], City_544929787
+[2018.09.13-01.43.52:387][312]LogMeshUtilities: Finished distance field build in 2.8s - 64x64x37 distance field, 2 triangles, Range [-0.0, 1.0], City_544931876
+[2018.09.13-01.43.57:488][327]LogMeshUtilities: Finished distance field build in 5.1s - 64x64x56 distance field, 4 triangles, Range [-0.0, 1.0], City_160202972
+[2018.09.13-01.44.03:709][343]LogMeshUtilities: Finished distance field build in 6.3s - 64x64x64 distance field, 10 triangles, Range [-0.0, 1.0], City_149530311
+[2018.09.13-01.44.06:386][351]LogMeshUtilities: Finished distance field build in 2.5s - 64x64x33 distance field, 2 triangles, Range [-0.0, 1.0], City_544931892
+[2018.09.13-01.44.11:430][366]LogMeshUtilities: Finished distance field build in 5.2s - 64x64x64 distance field, 6 triangles, Range [-0.0, 1.0], City_第２体育館
+[2018.09.13-01.44.13:097][371]LogMeshUtilities: Finished distance field build in 1.6s - 64x64x23 distance field, 2 triangles, Range [-0.0, 1.0], City_544931879
+[2018.09.13-01.44.14:784][376]LogMeshUtilities: Finished distance field build in 1.6s - 64x64x19 distance field, 2 triangles, Range [-0.0, 1.0], City_544931882
+[2018.09.13-01.44.16:157][380]LogMeshUtilities: Finished distance field build in 1.4s - 64x64x17 distance field, 2 triangles, Range [-0.0, 1.0], City_544929777
+[2018.09.13-01.44.21:517][396]LogMeshUtilities: Finished distance field build in 5.1s - 64x64x64 distance field, 2 triangles, Range [-0.0, 1.0], City_2号館
+[2018.09.13-01.44.25:398][407]LogMeshUtilities: Finished distance field build in 3.9s - 64x64x41 distance field, 2 triangles, Range [-0.0, 1.0], City_144553395
+[2018.09.13-01.44.27:182][412]LogMeshUtilities: Finished distance field build in 1.8s - 64x64x24 distance field, 2 triangles, Range [-0.0, 1.0], City_544931883
+[2018.09.13-01.44.32:053][608]LogMeshUtilities: Finished distance field build in 5.1s - 64x64x64 distance field, 2 triangles, Range [-0.0, 1.0], City_グリーンハイツ武蔵境通り６号棟
+[2018.09.13-01.44.36:045][734]LogMeshUtilities: Finished distance field build in 3.9s - 64x64x42 distance field, 2 triangles, Range [-0.0, 1.0], City_147778712
+[2018.09.13-01.44.39:961][840]LogMeshUtilities: Finished distance field build in 4.0s - 64x64x48 distance field, 4 triangles, Range [-0.0, 1.0], City_544931891
+[2018.09.13-01.44.43:770][955]LogMeshUtilities: Finished distance field build in 3.8s - 64x64x54 distance field, 6 triangles, Range [-0.0, 1.0], City_147778721
+[2018.09.13-01.44.49:755][119]LogMeshUtilities: Finished distance field build in 6.0s - 64x64x64 distance field, 2 triangles, Range [-0.0, 1.0], City_1号館
+[2018.09.13-01.44.57:291][324]LogMeshUtilities: Finished distance field build in 7.5s - 64x64x64 distance field, 12 triangles, Range [-0.3, 0.4], City_むさしのかん_001
+[2018.09.13-01.45.03:420][586]LogMeshUtilities: Finished distance field build in 6.1s - 64x64x64 distance field, 28 triangles, Range [-0.3, 0.9], City_145227581_001
+[2018.09.13-01.45.09:719][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.13-01.45.10:827][835]LogMeshUtilities: Finished distance field build in 7.4s - 64x64x64 distance field, 20 triangles, Range [-0.3, 0.5], City_6号館_001
+[2018.09.13-01.45.13:090][871]Cmd: TRANSACTION UNDO
+[2018.09.13-01.45.13:102][871]LogEditorTransaction: Undo Create Actors
+[2018.09.13-01.45.17:393][139]LogMeshUtilities: Finished distance field build in 6.6s - 64x64x64 distance field, 52 triangles, Range [-0.2, 0.5], City_145201193_001
+[2018.09.13-01.45.24:615][512]LogMeshUtilities: Finished distance field build in 7.2s - 64x64x64 distance field, 12 triangles, Range [-0.3, 0.5], City_147778553_001
+[2018.09.13-01.45.32:036][878]LogMeshUtilities: Finished distance field build in 7.4s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.5], City_544929757_001
+[2018.09.13-01.45.40:137][370]LogMeshUtilities: Finished distance field build in 8.1s - 64x64x64 distance field, 20 triangles, Range [-0.1, 0.5], City_144553405_001
+[2018.09.13-01.45.46:229][475]LogMeshUtilities: Finished distance field build in 5.9s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.6], City_147778715_001
+[2018.09.13-01.45.52:429][491]LogMeshUtilities: Finished distance field build in 6.3s - 64x64x64 distance field, 12 triangles, Range [-0.0, 0.9], City_148435684_001
+[2018.09.13-01.45.58:123][508]LogMeshUtilities: Finished distance field build in 5.8s - 64x64x64 distance field, 16 triangles, Range [-0.2, 0.6], City_544931893_001
+[2018.09.13-01.46.04:643][526]LogMeshUtilities: Finished distance field build in 6.4s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.5], City_544929795_001
+[2018.09.13-01.46.11:259][540]LogMeshUtilities: Finished distance field build in 6.5s - 64x64x64 distance field, 24 triangles, Range [-0.2, 0.5], City_147778558_001
+[2018.09.13-01.46.13:939][548]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-01.46.16:241][695]LogMeshUtilities: Finished distance field build in 5.3s - 64x64x64 distance field, 36 triangles, Range [-0.2, 1.0], City_147779139_001
+[2018.09.13-01.46.23:427][169]LogMeshUtilities: Finished distance field build in 7.2s - 64x64x64 distance field, 12 triangles, Range [-0.0, 0.5], City_221689091_001
+[2018.09.13-01.46.29:838][558]LogMeshUtilities: Finished distance field build in 6.4s - 64x64x64 distance field, 28 triangles, Range [-0.3, 0.6], City_紅雲台_001
+[2018.09.13-01.46.36:566][943]LogMeshUtilities: Finished distance field build in 6.7s - 64x64x64 distance field, 28 triangles, Range [-0.2, 0.5], City_本館_001
+[2018.09.13-01.46.43:465][388]LogMeshUtilities: Finished distance field build in 6.9s - 64x64x64 distance field, 48 triangles, Range [-0.2, 0.9], City_186908334_001
+[2018.09.13-01.46.49:493][830]LogMeshUtilities: Finished distance field build in 6.0s - 64x64x64 distance field, 40 triangles, Range [-0.0, 0.4], City_146186479_001
+[2018.09.13-01.46.56:593][158]LogMeshUtilities: Finished distance field build in 7.1s - 64x64x64 distance field, 12 triangles, Range [-0.1, 0.4], City_144553396_001
+[2018.09.13-01.47.03:474][551]LogMeshUtilities: Finished distance field build in 6.9s - 64x64x64 distance field, 36 triangles, Range [-0.3, 0.5], City_146186480_001
+[2018.09.13-01.47.05:127][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.13-01.47.10:794][894]LogMeshUtilities: Finished distance field build in 7.3s - 64x64x64 distance field, 12 triangles, Range [-0.1, 0.5], City_544929766_001
+[2018.09.13-01.47.16:925][226]LogMeshUtilities: Finished distance field build in 6.1s - 64x64x64 distance field, 36 triangles, Range [-0.3, 0.9], City_147857305_001
+[2018.09.13-01.47.24:258][535]LogMeshUtilities: Finished distance field build in 7.4s - 64x64x64 distance field, 12 triangles, Range [-0.3, 0.5], City_147778554_001
+[2018.09.13-01.47.31:508][904]LogMeshUtilities: Finished distance field build in 7.2s - 64x64x64 distance field, 12 triangles, Range [-0.1, 0.7], City_544931875_001
+[2018.09.13-01.47.38:425][283]LogMeshUtilities: Finished distance field build in 6.9s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.5], City_544929752_001
+[2018.09.13-01.47.45:753][659]LogMeshUtilities: Finished distance field build in 7.3s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.5], City_544929789_001
+[2018.09.13-01.47.52:025][ 95]LogMeshUtilities: Finished distance field build in 6.3s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.5], City_544929770_001
+[2018.09.13-01.47.58:282][484]LogMeshUtilities: Finished distance field build in 6.3s - 64x64x64 distance field, 44 triangles, Range [-0.2, 0.9], City_147681767_001
+[2018.09.13-01.48.05:576][845]LogMeshUtilities: Finished distance field build in 7.3s - 64x64x64 distance field, 12 triangles, Range [-0.3, 0.5], City_グリーンハイツ武蔵境通り５号棟_001
+[2018.09.13-01.48.12:542][871]LogMeshUtilities: Finished distance field build in 6.5s - 64x64x64 distance field, 20 triangles, Range [-0.3, 0.6], City_141171731_001
+[2018.09.13-01.48.18:841][ 38]LogMeshUtilities: Finished distance field build in 6.8s - 64x64x64 distance field, 12 triangles, Range [-0.0, 0.7], City_345557854_001
+[2018.09.13-01.48.25:257][103]LogMeshUtilities: Finished distance field build in 6.2s - 64x64x64 distance field, 20 triangles, Range [-0.2, 0.8], City_544931877_001
+[2018.09.13-01.48.30:341][118]LogMeshUtilities: Finished distance field build in 5.1s - 64x64x64 distance field, 20 triangles, Range [-0.4, 1.0], City_147676525_001
+[2018.09.13-01.48.36:910][137]LogMeshUtilities: Finished distance field build in 6.5s - 64x64x64 distance field, 12 triangles, Range [-0.3, 0.7], City_544931894_001
+[2018.09.13-01.48.43:303][156]LogMeshUtilities: Finished distance field build in 6.4s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.9], City_544931896_001
+[2018.09.13-01.48.50:201][175]LogMeshUtilities: Finished distance field build in 7.1s - 64x64x64 distance field, 16 triangles, Range [-0.2, 0.4], City_５号館_001
+[2018.09.13-01.48.56:949][195]LogMeshUtilities: Finished distance field build in 6.5s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.9], City_544931880_001
+[2018.09.13-01.49.03:388][212]LogMeshUtilities: Finished distance field build in 6.5s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.8], City_544931895_001
+[2018.09.13-01.49.08:763][228]LogMeshUtilities: Finished distance field build in 5.6s - 64x64x64 distance field, 12 triangles, Range [-0.3, 0.7], City_144553398_001
+[2018.09.13-01.49.15:483][248]LogMeshUtilities: Finished distance field build in 6.6s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.6], City_147778555_001
+[2018.09.13-01.49.21:872][267]LogMeshUtilities: Finished distance field build in 6.4s - 64x64x64 distance field, 12 triangles, Range [-0.3, 0.8], City_147855636_001
+[2018.09.13-01.49.27:906][285]LogMeshUtilities: Finished distance field build in 6.2s - 64x64x64 distance field, 20 triangles, Range [-0.3, 0.8], City_165386107_001
+[2018.09.13-01.49.34:388][304]LogMeshUtilities: Finished distance field build in 6.2s - 64x64x64 distance field, 20 triangles, Range [-0.3, 0.9], City_４号館_001
+[2018.09.13-01.49.40:807][323]LogMeshUtilities: Finished distance field build in 6.5s - 64x64x64 distance field, 12 triangles, Range [-0.3, 0.7], City_544931874_001
+[2018.09.13-01.49.46:186][339]LogMeshUtilities: Finished distance field build in 5.5s - 64x64x64 distance field, 12 triangles, Range [-0.1, 0.5], City_544929779_001
+[2018.09.13-01.49.52:347][355]LogMeshUtilities: Finished distance field build in 6.2s - 64x64x64 distance field, 20 triangles, Range [-0.1, 0.7], City_グリーンハイツ武蔵境通り４号棟_001
+[2018.09.13-01.49.58:769][374]LogMeshUtilities: Finished distance field build in 6.4s - 64x64x64 distance field, 12 triangles, Range [-0.1, 0.5], City_544929768_001
+[2018.09.13-01.50.04:849][392]LogMeshUtilities: Finished distance field build in 5.9s - 64x64x64 distance field, 12 triangles, Range [-0.4, 0.5], City_実習棟_001
+[2018.09.13-01.50.11:533][412]LogMeshUtilities: Finished distance field build in 6.7s - 64x64x64 distance field, 12 triangles, Range [-0.0, 0.4], City_146186482_001
+[2018.09.13-01.50.17:911][431]LogMeshUtilities: Finished distance field build in 6.4s - 64x64x64 distance field, 12 triangles, Range [-0.3, 1.0], City_544931890_001
+[2018.09.13-01.50.24:554][449]LogMeshUtilities: Finished distance field build in 6.8s - 64x64x64 distance field, 12 triangles, Range [-0.3, 0.5], City_学友棟_001
+[2018.09.13-01.50.31:463][469]LogMeshUtilities: Finished distance field build in 6.6s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.5], City_147778713_001
+[2018.09.13-01.50.39:133][491]LogMeshUtilities: Finished distance field build in 7.8s - 64x64x64 distance field, 28 triangles, Range [-0.2, 0.4], City_146186483_001
+[2018.09.13-01.50.45:870][511]LogMeshUtilities: Finished distance field build in 6.7s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.4], City_186908335_001
+[2018.09.13-01.50.50:893][526]LogMeshUtilities: Finished distance field build in 5.2s - 64x64x64 distance field, 44 triangles, Range [-0.2, 0.4], City_146186481_001
+[2018.09.13-01.50.54:074][535]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020df25df640, Size=32
+[2018.09.13-01.50.54:120][535]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Blueprints/Levels/Main_menu' took 0.072
+[2018.09.13-01.50.57:717][546]LogMeshUtilities: Finished distance field build in 6.7s - 64x64x64 distance field, 12 triangles, Range [-0.3, 0.8], City_148435685_001
+[2018.09.13-01.51.04:464][566]LogMeshUtilities: Finished distance field build in 6.7s - 64x64x64 distance field, 12 triangles, Range [-0.4, 0.7], City_146186489_001
+[2018.09.13-01.51.11:332][586]LogMeshUtilities: Finished distance field build in 7.1s - 64x64x64 distance field, 16 triangles, Range [-0.4, 0.5], City_144553400_001
+[2018.09.13-01.51.17:352][603]LogMeshUtilities: Finished distance field build in 5.7s - 64x64x64 distance field, 12 triangles, Range [-0.3, 0.6], City_147779140_001
+[2018.09.13-01.51.23:057][618]LogMeshUtilities: Finished distance field build in 6.0s - 64x64x64 distance field, 60 triangles, Range [-0.1, 0.6], City_シュロス武蔵野_001
+[2018.09.13-01.51.29:526][635]LogMeshUtilities: Finished distance field build in 6.5s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.5], City_544931885_001
+[2018.09.13-01.51.35:204][652]LogMeshUtilities: Finished distance field build in 5.6s - 64x64x64 distance field, 12 triangles, Range [-0.1, 0.5], City_544929765_001
+[2018.09.13-01.51.41:782][671]LogMeshUtilities: Finished distance field build in 6.5s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.5], City_544929793_001
+[2018.09.13-01.51.48:274][689]LogMeshUtilities: Finished distance field build in 6.6s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.5], City_147778716_001
+[2018.09.13-01.51.54:623][707]LogMeshUtilities: Finished distance field build in 6.3s - 64x64x64 distance field, 32 triangles, Range [-0.2, 0.5], City_147779141_001
+[2018.09.13-01.52.01:071][726]LogMeshUtilities: Finished distance field build in 6.6s - 64x64x64 distance field, 48 triangles, Range [-0.3, 0.6], City_武蔵野大学図書館_001
+[2018.09.13-01.52.06:745][743]LogMeshUtilities: Finished distance field build in 5.5s - 64x64x64 distance field, 36 triangles, Range [-0.3, 0.6], City_146186487_001
+[2018.09.13-01.52.12:928][760]LogMeshUtilities: Finished distance field build in 6.3s - 64x64x64 distance field, 20 triangles, Range [-0.4, 0.5], City_第１体育館_001
+[2018.09.13-01.52.19:166][778]LogMeshUtilities: Finished distance field build in 6.2s - 64x64x64 distance field, 36 triangles, Range [-0.2, 0.5], City_144553380_001
+[2018.09.13-01.52.25:974][798]LogMeshUtilities: Finished distance field build in 6.8s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.4], City_3号館_001
+[2018.09.13-01.52.31:996][816]LogMeshUtilities: Finished distance field build in 5.8s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.4], City_８号館_001
+[2018.09.13-01.52.38:402][835]LogMeshUtilities: Finished distance field build in 6.7s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.5], City_544929758_001
+[2018.09.13-01.52.45:027][852]LogMeshUtilities: Finished distance field build in 6.5s - 64x64x64 distance field, 12 triangles, Range [-0.1, 0.5], City_544929781_001
+[2018.09.13-01.52.51:636][870]LogMeshUtilities: Finished distance field build in 5.8s - 64x64x64 distance field, 12 triangles, Range [-0.1, 0.5], City_544931884_001
+[2018.09.13-01.52.57:737][889]LogMeshUtilities: Finished distance field build in 6.9s - 64x64x64 distance field, 20 triangles, Range [-0.5, 0.7], City_144553404_001
+[2018.09.13-01.53.04:425][909]LogMeshUtilities: Finished distance field build in 6.5s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.5], City_544931878_001
+[2018.09.13-01.53.10:162][926]LogMeshUtilities: Finished distance field build in 6.0s - 64x64x64 distance field, 24 triangles, Range [-0.3, 1.0], City_147855644_001
+[2018.09.13-01.53.16:845][946]LogMeshUtilities: Finished distance field build in 6.5s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.7], City_第３体育館_001
+[2018.09.13-01.53.22:184][962]LogMeshUtilities: Finished distance field build in 5.5s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.5], City_544929791_001
+[2018.09.13-01.53.28:965][  5]LogMeshUtilities: Finished distance field build in 6.9s - 64x64x64 distance field, 16 triangles, Range [-0.2, 0.7], City_544931881_001
+[2018.09.13-01.53.35:360][301]LogMeshUtilities: Finished distance field build in 6.4s - 64x64x64 distance field, 28 triangles, Range [-0.3, 0.8], City_146186486_001
+[2018.09.13-01.53.41:728][584]LogMeshUtilities: Finished distance field build in 6.4s - 64x64x64 distance field, 20 triangles, Range [-0.4, 1.0], City_147676524_001
+[2018.09.13-01.53.47:658][879]LogMeshUtilities: Finished distance field build in 5.9s - 64x64x64 distance field, 12 triangles, Range [-0.3, 0.8], City_186907756_001
+[2018.09.13-01.53.54:457][160]LogMeshUtilities: Finished distance field build in 6.8s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.8], City_544713790_001
+[2018.09.13-01.54.01:070][447]LogMeshUtilities: Finished distance field build in 6.6s - 64x64x64 distance field, 20 triangles, Range [-0.2, 0.4], City_７号館_001
+[2018.09.13-01.54.08:815][529]LogMeshUtilities: Finished distance field build in 7.6s - 64x64x64 distance field, 20 triangles, Range [-0.2, 0.4], City_146186485_001
+[2018.09.13-01.54.15:096][546]LogMeshUtilities: Finished distance field build in 6.4s - 64x64x64 distance field, 12 triangles, Range [-0.1, 0.5], City_544929775_001
+[2018.09.13-01.54.20:491][562]LogMeshUtilities: Finished distance field build in 5.3s - 64x64x64 distance field, 20 triangles, Range [-0.2, 0.7], City_544929773_001
+[2018.09.13-01.54.27:611][581]LogMeshUtilities: Finished distance field build in 7.2s - 64x64x64 distance field, 12 triangles, Range [-0.3, 0.8], City_544931886_001
+[2018.09.13-01.54.34:487][600]LogMeshUtilities: Finished distance field build in 6.8s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.4], City_147857307_001
+[2018.09.13-01.54.41:569][620]LogMeshUtilities: Finished distance field build in 6.6s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.9], City_186907757_001
+[2018.09.13-01.54.46:385][635]LogMeshUtilities: Finished distance field build in 5.1s - 64x64x64 distance field, 20 triangles, Range [-0.1, 0.9], City_186907758_001
+[2018.09.13-01.54.53:143][655]LogMeshUtilities: Finished distance field build in 6.8s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.5], City_147778557_001
+[2018.09.13-01.54.59:631][737]LogMeshUtilities: Finished distance field build in 6.7s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.5], City_544931887_001
+[2018.09.13-01.55.06:083][867]LogMeshUtilities: Finished distance field build in 5.9s - 64x64x64 distance field, 12 triangles, Range [-0.2, 1.0], City_147681768_001
+[2018.09.13-01.55.12:544][887]LogMeshUtilities: Finished distance field build in 7.1s - 64x64x64 distance field, 12 triangles, Range [-0.3, 0.6], City_144553399_001
+[2018.09.13-01.55.19:244][ 30]LogMeshUtilities: Finished distance field build in 6.8s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.5], City_544929783_001
+[2018.09.13-01.55.25:808][153]LogMeshUtilities: Finished distance field build in 6.6s - 64x64x64 distance field, 28 triangles, Range [-0.2, 0.7], City_147778559_001
+[2018.09.13-01.55.33:363][332]LogMeshUtilities: Finished distance field build in 7.3s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.4], City_147857308_001
+[2018.09.13-01.55.39:985][350]LogMeshUtilities: Finished distance field build in 6.5s - 64x64x64 distance field, 28 triangles, Range [-0.2, 0.7], City_147778560_001
+[2018.09.13-01.55.45:928][368]LogMeshUtilities: Finished distance field build in 6.0s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.7], City_544929787_001
+[2018.09.13-01.55.52:675][388]LogMeshUtilities: Finished distance field build in 7.0s - 64x64x64 distance field, 12 triangles, Range [-0.3, 0.8], City_544931876_001
+[2018.09.13-01.55.59:508][405]LogMeshUtilities: Finished distance field build in 6.7s - 64x64x64 distance field, 20 triangles, Range [-0.2, 0.7], City_160202972_001
+[2018.09.13-01.56.06:357][426]LogMeshUtilities: Finished distance field build in 7.0s - 64x64x64 distance field, 44 triangles, Range [-0.2, 0.6], City_149530311_001
+[2018.09.13-01.56.14:130][443]LogMeshUtilities: Finished distance field build in 7.9s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.7], City_544931892_001
+[2018.09.13-01.56.21:231][463]LogMeshUtilities: Finished distance field build in 6.9s - 64x64x64 distance field, 28 triangles, Range [-0.4, 0.8], City_第２体育館_001
+[2018.09.13-01.56.28:790][483]LogMeshUtilities: Finished distance field build in 7.0s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.5], City_544931879_001
+[2018.09.13-01.56.35:709][502]LogMeshUtilities: Finished distance field build in 7.0s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.5], City_544931882_001
+[2018.09.13-01.56.41:077][520]LogMeshUtilities: Finished distance field build in 6.0s - 64x64x64 distance field, 12 triangles, Range [-0.1, 0.5], City_544929777_001
+[2018.09.13-01.56.48:783][541]LogMeshUtilities: Finished distance field build in 7.4s - 64x64x64 distance field, 12 triangles, Range [-0.3, 0.4], City_2号館_001
+[2018.09.13-01.56.55:736][560]LogMeshUtilities: Finished distance field build in 7.1s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.6], City_144553395_001
+[2018.09.13-01.57.02:961][579]LogMeshUtilities: Finished distance field build in 7.2s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.5], City_544931883_001
+[2018.09.13-01.57.10:472][600]LogMeshUtilities: Finished distance field build in 7.4s - 64x64x64 distance field, 12 triangles, Range [-0.2, 0.5], City_グリーンハイツ武蔵境通り６号棟_001
+[2018.09.13-01.57.17:530][619]LogMeshUtilities: Finished distance field build in 7.3s - 64x64x64 distance field, 12 triangles, Range [-0.3, 0.6], City_147778712_001
+[2018.09.13-01.57.22:960][635]LogMeshUtilities: Finished distance field build in 5.4s - 64x64x64 distance field, 20 triangles, Range [-0.2, 0.9], City_544931891_001
+[2018.09.13-01.57.29:680][654]LogMeshUtilities: Finished distance field build in 6.7s - 64x64x64 distance field, 28 triangles, Range [-0.2, 1.0], City_147778721_001
+[2018.09.13-02.00.54:951][412]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Blueprints/Levels/Main_menu' took 0.020
+[2018.09.13-02.10.55:621][214]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Blueprints/Levels/Main_menu' took 0.021
+[2018.09.13-02.16.54:725][409]LogSlate: Window 'Save Content' being destroyed
+[2018.09.13-02.16.54:896][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_141171731" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_141171731.uasset" SILENT=true
+[2018.09.13-02.16.54:926][409]LogSavePackage: Save=27.60ms
+[2018.09.13-02.16.54:926][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_141171731CD7B26E04CACC97954AB6A8B7ABD7B7A.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_141171731.uasset'
+[2018.09.13-02.16.54:929][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_141171731.uasset
+[2018.09.13-02.16.54:942][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_141171731_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_141171731_001.uasset" SILENT=true
+[2018.09.13-02.16.54:954][409]LogSavePackage: Save=10.73ms
+[2018.09.13-02.16.54:954][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_141171731_001AEC467B641167779FAD71A8FC8B073A1.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_141171731_001.uasset'
+[2018.09.13-02.16.54:957][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_141171731_001.uasset
+[2018.09.13-02.16.54:970][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_144553380" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553380.uasset" SILENT=true
+[2018.09.13-02.16.54:987][409]LogSavePackage: Save=16.01ms
+[2018.09.13-02.16.54:987][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_1445533805049071049363966C5E119AB573A8AA0.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553380.uasset'
+[2018.09.13-02.16.54:990][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553380.uasset
+[2018.09.13-02.16.55:003][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_144553380_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553380_001.uasset" SILENT=true
+[2018.09.13-02.16.55:013][409]LogSavePackage: Save=8.92ms
+[2018.09.13-02.16.55:013][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_144553380_001553252D646094C1F04A640B2CD188FB9.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553380_001.uasset'
+[2018.09.13-02.16.55:017][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553380_001.uasset
+[2018.09.13-02.16.55:029][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_144553395" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553395.uasset" SILENT=true
+[2018.09.13-02.16.55:040][409]LogSavePackage: Save=9.60ms
+[2018.09.13-02.16.55:040][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_144553395DF7381784CA9FE9C1734A5A0C864343B.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553395.uasset'
+[2018.09.13-02.16.55:044][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553395.uasset
+[2018.09.13-02.16.55:058][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_144553395_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553395_001.uasset" SILENT=true
+[2018.09.13-02.16.55:086][409]LogSavePackage: Save=11.90ms
+[2018.09.13-02.16.55:086][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_144553395_0016654C55D470328A74B6339B11566D8AE.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553395_001.uasset'
+[2018.09.13-02.16.55:090][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553395_001.uasset
+[2018.09.13-02.16.55:102][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_144553396" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553396.uasset" SILENT=true
+[2018.09.13-02.16.55:112][409]LogSavePackage: Save=8.34ms
+[2018.09.13-02.16.55:112][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_144553396612569DD491514D9A25B88B886192D94.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553396.uasset'
+[2018.09.13-02.16.55:133][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553396.uasset
+[2018.09.13-02.16.55:144][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_144553396_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553396_001.uasset" SILENT=true
+[2018.09.13-02.16.55:156][409]LogSavePackage: Save=10.76ms
+[2018.09.13-02.16.55:156][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_144553396_001312144FD491E800577C158AC1A57203C.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553396_001.uasset'
+[2018.09.13-02.16.55:161][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553396_001.uasset
+[2018.09.13-02.16.55:171][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_144553398" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553398.uasset" SILENT=true
+[2018.09.13-02.16.55:181][409]LogSavePackage: Save=8.31ms
+[2018.09.13-02.16.55:181][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_1445533987360574947B804AD5924CC9D2883B7AE.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553398.uasset'
+[2018.09.13-02.16.55:185][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553398.uasset
+[2018.09.13-02.16.55:200][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_144553398_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553398_001.uasset" SILENT=true
+[2018.09.13-02.16.55:212][409]LogSavePackage: Save=8.96ms
+[2018.09.13-02.16.55:212][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_144553398_001B6176D614ABDA6D86537B99C34ABE02E.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553398_001.uasset'
+[2018.09.13-02.16.55:216][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553398_001.uasset
+[2018.09.13-02.16.55:229][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_144553399" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553399.uasset" SILENT=true
+[2018.09.13-02.16.55:240][409]LogSavePackage: Save=8.59ms
+[2018.09.13-02.16.55:240][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_1445533998AB58CA5471F440F0938E9BA6A20CEFF.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553399.uasset'
+[2018.09.13-02.16.55:243][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553399.uasset
+[2018.09.13-02.16.55:255][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_144553399_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553399_001.uasset" SILENT=true
+[2018.09.13-02.16.55:266][409]LogSavePackage: Save=11.34ms
+[2018.09.13-02.16.55:266][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_144553399_00125552DD444578DE90DF2D4A77FDA0DAD.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553399_001.uasset'
+[2018.09.13-02.16.55:269][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553399_001.uasset
+[2018.09.13-02.16.55:282][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_144553400" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553400.uasset" SILENT=true
+[2018.09.13-02.16.55:292][409]LogSavePackage: Save=9.28ms
+[2018.09.13-02.16.55:292][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_1445534001B7FDFCF44941297B0E5279DB091A51C.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553400.uasset'
+[2018.09.13-02.16.55:296][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553400.uasset
+[2018.09.13-02.16.55:308][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_144553400_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553400_001.uasset" SILENT=true
+[2018.09.13-02.16.55:319][409]LogSavePackage: Save=9.33ms
+[2018.09.13-02.16.55:319][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_144553400_0011190E0764AF8CA4085CDAEB2E6DEF018.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553400_001.uasset'
+[2018.09.13-02.16.55:322][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553400_001.uasset
+[2018.09.13-02.16.55:335][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_144553404" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553404.uasset" SILENT=true
+[2018.09.13-02.16.55:345][409]LogSavePackage: Save=8.03ms
+[2018.09.13-02.16.55:345][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_144553404CA25DBC048E7E73B6E27F8AF8EBE8B94.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553404.uasset'
+[2018.09.13-02.16.55:349][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553404.uasset
+[2018.09.13-02.16.55:362][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_144553404_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553404_001.uasset" SILENT=true
+[2018.09.13-02.16.55:374][409]LogSavePackage: Save=10.48ms
+[2018.09.13-02.16.55:374][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_144553404_0015D0418E14C7C9D86479C9DBAFDF354B4.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553404_001.uasset'
+[2018.09.13-02.16.55:378][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553404_001.uasset
+[2018.09.13-02.16.55:392][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_144553405" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553405.uasset" SILENT=true
+[2018.09.13-02.16.55:404][409]LogSavePackage: Save=11.04ms
+[2018.09.13-02.16.55:404][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_144553405C31E738049925B56BA4CF1A90FECF05F.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553405.uasset'
+[2018.09.13-02.16.55:407][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553405.uasset
+[2018.09.13-02.16.55:419][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_144553405_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553405_001.uasset" SILENT=true
+[2018.09.13-02.16.55:430][409]LogSavePackage: Save=9.72ms
+[2018.09.13-02.16.55:430][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_144553405_001DD439B1A47DE20366183DA80452A33AD.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553405_001.uasset'
+[2018.09.13-02.16.55:434][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_144553405_001.uasset
+[2018.09.13-02.16.55:445][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_145201193" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_145201193.uasset" SILENT=true
+[2018.09.13-02.16.55:454][409]LogSavePackage: Save=8.74ms
+[2018.09.13-02.16.55:454][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_145201193C67158034855B0BB06EF39B3EE737AD0.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_145201193.uasset'
+[2018.09.13-02.16.55:457][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_145201193.uasset
+[2018.09.13-02.16.55:468][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_145201193_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_145201193_001.uasset" SILENT=true
+[2018.09.13-02.16.55:477][409]LogSavePackage: Save=8.13ms
+[2018.09.13-02.16.55:477][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_145201193_00110D8A36845DE4F2619768CAC2CF244C7.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_145201193_001.uasset'
+[2018.09.13-02.16.55:502][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_145201193_001.uasset
+[2018.09.13-02.16.55:514][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_145227581" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_145227581.uasset" SILENT=true
+[2018.09.13-02.16.55:523][409]LogSavePackage: Save=8.36ms
+[2018.09.13-02.16.55:523][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_14522758190EAB91C4F870A9BD60406BDE22D946D.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_145227581.uasset'
+[2018.09.13-02.16.55:527][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_145227581.uasset
+[2018.09.13-02.16.55:538][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_145227581_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_145227581_001.uasset" SILENT=true
+[2018.09.13-02.16.55:548][409]LogSavePackage: Save=9.21ms
+[2018.09.13-02.16.55:548][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_145227581_00140BB31C344B168284A57AEB095E2B254.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_145227581_001.uasset'
+[2018.09.13-02.16.55:551][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_145227581_001.uasset
+[2018.09.13-02.16.55:564][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_146186479" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186479.uasset" SILENT=true
+[2018.09.13-02.16.55:573][409]LogSavePackage: Save=8.04ms
+[2018.09.13-02.16.55:573][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_146186479E003D9E54019491FB9A060A1855AAB89.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186479.uasset'
+[2018.09.13-02.16.55:576][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186479.uasset
+[2018.09.13-02.16.55:589][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_146186479_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186479_001.uasset" SILENT=true
+[2018.09.13-02.16.55:601][409]LogSavePackage: Save=9.91ms
+[2018.09.13-02.16.55:601][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_146186479_00189CF95EC4FFF3C53086F0CAE8A988B10.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186479_001.uasset'
+[2018.09.13-02.16.55:603][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186479_001.uasset
+[2018.09.13-02.16.55:615][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_146186480" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186480.uasset" SILENT=true
+[2018.09.13-02.16.55:625][409]LogSavePackage: Save=8.62ms
+[2018.09.13-02.16.55:625][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_146186480B364BB4B478CD29637D326A230E3B552.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186480.uasset'
+[2018.09.13-02.16.55:629][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186480.uasset
+[2018.09.13-02.16.55:640][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_146186480_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186480_001.uasset" SILENT=true
+[2018.09.13-02.16.55:650][409]LogSavePackage: Save=8.70ms
+[2018.09.13-02.16.55:650][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_146186480_0011C5D2BFE4E1B85342E51548569F05EE8.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186480_001.uasset'
+[2018.09.13-02.16.55:652][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186480_001.uasset
+[2018.09.13-02.16.55:666][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_146186481" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186481.uasset" SILENT=true
+[2018.09.13-02.16.55:676][409]LogSavePackage: Save=8.11ms
+[2018.09.13-02.16.55:676][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_146186481050ED4CB4B7B8204C5A9DF8F3B3A2B26.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186481.uasset'
+[2018.09.13-02.16.55:679][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186481.uasset
+[2018.09.13-02.16.55:691][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_146186481_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186481_001.uasset" SILENT=true
+[2018.09.13-02.16.55:704][409]LogSavePackage: Save=11.49ms
+[2018.09.13-02.16.55:704][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_146186481_00186A314F24456098F4C8C739C6E4B1205.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186481_001.uasset'
+[2018.09.13-02.16.55:707][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186481_001.uasset
+[2018.09.13-02.16.55:719][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_146186482" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186482.uasset" SILENT=true
+[2018.09.13-02.16.55:731][409]LogSavePackage: Save=9.59ms
+[2018.09.13-02.16.55:731][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_146186482889A3F61488B7D8297AFA8905D14C98F.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186482.uasset'
+[2018.09.13-02.16.55:754][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186482.uasset
+[2018.09.13-02.16.55:767][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_146186482_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186482_001.uasset" SILENT=true
+[2018.09.13-02.16.55:778][409]LogSavePackage: Save=9.21ms
+[2018.09.13-02.16.55:778][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_146186482_0014A44ECFB4524ACA09FAC31A8B8726B53.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186482_001.uasset'
+[2018.09.13-02.16.55:781][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186482_001.uasset
+[2018.09.13-02.16.55:793][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_146186483" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186483.uasset" SILENT=true
+[2018.09.13-02.16.55:805][409]LogSavePackage: Save=10.39ms
+[2018.09.13-02.16.55:805][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_146186483845118CC429D7A71F16B7D89640F702A.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186483.uasset'
+[2018.09.13-02.16.55:808][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186483.uasset
+[2018.09.13-02.16.55:820][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_146186483_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186483_001.uasset" SILENT=true
+[2018.09.13-02.16.55:832][409]LogSavePackage: Save=10.65ms
+[2018.09.13-02.16.55:832][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_146186483_0017E73B0C344DEEF94DD5B09A594763029.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186483_001.uasset'
+[2018.09.13-02.16.55:835][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186483_001.uasset
+[2018.09.13-02.16.55:847][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_146186485" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186485.uasset" SILENT=true
+[2018.09.13-02.16.55:859][409]LogSavePackage: Save=10.48ms
+[2018.09.13-02.16.55:859][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_1461864850ECE708B41E293A12259B6BD0C51B720.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186485.uasset'
+[2018.09.13-02.16.55:863][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186485.uasset
+[2018.09.13-02.16.55:875][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_146186485_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186485_001.uasset" SILENT=true
+[2018.09.13-02.16.55:886][409]LogSavePackage: Save=8.52ms
+[2018.09.13-02.16.55:886][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_146186485_00155B612684E4A8BA3E3CFCA832A86295A.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186485_001.uasset'
+[2018.09.13-02.16.55:888][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186485_001.uasset
+[2018.09.13-02.16.55:901][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_146186486" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186486.uasset" SILENT=true
+[2018.09.13-02.16.55:911][409]LogSavePackage: Save=9.02ms
+[2018.09.13-02.16.55:911][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_14618648621BD9CFE44FF1727F6F0CCA4B15D3A25.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186486.uasset'
+[2018.09.13-02.16.55:915][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186486.uasset
+[2018.09.13-02.16.55:926][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_146186486_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186486_001.uasset" SILENT=true
+[2018.09.13-02.16.55:937][409]LogSavePackage: Save=9.21ms
+[2018.09.13-02.16.55:937][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_146186486_001CEC3802A497725D3C970C18092D2C293.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186486_001.uasset'
+[2018.09.13-02.16.55:940][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186486_001.uasset
+[2018.09.13-02.16.55:953][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_146186487" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186487.uasset" SILENT=true
+[2018.09.13-02.16.56:009][409]LogSavePackage: Save=54.52ms
+[2018.09.13-02.16.56:009][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_146186487B6A7644B409C7B8A53215D89001DCE93.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186487.uasset'
+[2018.09.13-02.16.56:012][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186487.uasset
+[2018.09.13-02.16.56:025][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_146186487_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186487_001.uasset" SILENT=true
+[2018.09.13-02.16.56:054][409]LogSavePackage: Save=27.97ms
+[2018.09.13-02.16.56:054][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_146186487_001CAD47D8D4800C7A00384A5A07EAE4D4B.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186487_001.uasset'
+[2018.09.13-02.16.56:058][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186487_001.uasset
+[2018.09.13-02.16.56:076][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_146186489" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186489.uasset" SILENT=true
+[2018.09.13-02.16.56:145][409]LogSavePackage: Save=67.03ms
+[2018.09.13-02.16.56:145][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_1461864895409FBCD4E1B81933D61B08C4102952E.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186489.uasset'
+[2018.09.13-02.16.56:148][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186489.uasset
+[2018.09.13-02.16.56:159][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_146186489_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186489_001.uasset" SILENT=true
+[2018.09.13-02.16.56:169][409]LogSavePackage: Save=8.86ms
+[2018.09.13-02.16.56:169][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_146186489_00161772BDC498E1971E82F9D893F227ED4.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186489_001.uasset'
+[2018.09.13-02.16.56:172][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_146186489_001.uasset
+[2018.09.13-02.16.56:184][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147676524" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147676524.uasset" SILENT=true
+[2018.09.13-02.16.56:196][409]LogSavePackage: Save=10.21ms
+[2018.09.13-02.16.56:196][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_14767652478C6A5C54148F6FB0AC39B82D6A093EB.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147676524.uasset'
+[2018.09.13-02.16.56:199][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147676524.uasset
+[2018.09.13-02.16.56:212][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147676524_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147676524_001.uasset" SILENT=true
+[2018.09.13-02.16.56:223][409]LogSavePackage: Save=9.89ms
+[2018.09.13-02.16.56:223][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147676524_00140F43A904A1E81591903379D9685176A.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147676524_001.uasset'
+[2018.09.13-02.16.56:226][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147676524_001.uasset
+[2018.09.13-02.16.56:238][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147676525" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147676525.uasset" SILENT=true
+[2018.09.13-02.16.56:248][409]LogSavePackage: Save=8.76ms
+[2018.09.13-02.16.56:248][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147676525C267451F4E0E844CB68F588CF769D302.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147676525.uasset'
+[2018.09.13-02.16.56:251][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147676525.uasset
+[2018.09.13-02.16.56:262][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147676525_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147676525_001.uasset" SILENT=true
+[2018.09.13-02.16.56:273][409]LogSavePackage: Save=10.22ms
+[2018.09.13-02.16.56:273][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147676525_001EE7B48544B7F3EC2BF39C88E36134F7B.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147676525_001.uasset'
+[2018.09.13-02.16.56:277][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147676525_001.uasset
+[2018.09.13-02.16.56:291][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147681767" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147681767.uasset" SILENT=true
+[2018.09.13-02.16.56:303][409]LogSavePackage: Save=10.62ms
+[2018.09.13-02.16.56:303][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147681767A76585CE423342E988B74583C5227666.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147681767.uasset'
+[2018.09.13-02.16.56:307][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147681767.uasset
+[2018.09.13-02.16.56:319][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147681767_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147681767_001.uasset" SILENT=true
+[2018.09.13-02.16.56:329][409]LogSavePackage: Save=8.22ms
+[2018.09.13-02.16.56:329][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147681767_0016EBCD94C4770CEC362658B8516D3BE9D.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147681767_001.uasset'
+[2018.09.13-02.16.56:332][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147681767_001.uasset
+[2018.09.13-02.16.56:344][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147681768" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147681768.uasset" SILENT=true
+[2018.09.13-02.16.56:354][409]LogSavePackage: Save=8.56ms
+[2018.09.13-02.16.56:354][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_1476817684449AD454887971D65ACD58A639D13AF.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147681768.uasset'
+[2018.09.13-02.16.56:357][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147681768.uasset
+[2018.09.13-02.16.56:369][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147681768_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147681768_001.uasset" SILENT=true
+[2018.09.13-02.16.56:380][409]LogSavePackage: Save=9.44ms
+[2018.09.13-02.16.56:380][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147681768_0011AB6E5D044C5A1F445A27F89213CC711.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147681768_001.uasset'
+[2018.09.13-02.16.56:383][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147681768_001.uasset
+[2018.09.13-02.16.56:395][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778553" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778553.uasset" SILENT=true
+[2018.09.13-02.16.56:406][409]LogSavePackage: Save=9.70ms
+[2018.09.13-02.16.56:406][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147778553CECCBADB475F8179489620B050929FC6.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778553.uasset'
+[2018.09.13-02.16.56:409][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778553.uasset
+[2018.09.13-02.16.56:423][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778553_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778553_001.uasset" SILENT=true
+[2018.09.13-02.16.56:433][409]LogSavePackage: Save=8.74ms
+[2018.09.13-02.16.56:433][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147778553_0014C87E72541057E5F156C7CB79073CFF9.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778553_001.uasset'
+[2018.09.13-02.16.56:437][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778553_001.uasset
+[2018.09.13-02.16.56:450][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778554" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778554.uasset" SILENT=true
+[2018.09.13-02.16.56:460][409]LogSavePackage: Save=8.64ms
+[2018.09.13-02.16.56:460][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147778554F357939A4FA17DBB01F3E4B3C4B38F55.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778554.uasset'
+[2018.09.13-02.16.56:462][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778554.uasset
+[2018.09.13-02.16.56:476][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778554_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778554_001.uasset" SILENT=true
+[2018.09.13-02.16.56:512][409]LogSavePackage: Save=23.04ms
+[2018.09.13-02.16.56:512][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147778554_001C67D56724335352C9D2AEC87509F03FB.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778554_001.uasset'
+[2018.09.13-02.16.56:515][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778554_001.uasset
+[2018.09.13-02.16.56:526][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778555" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778555.uasset" SILENT=true
+[2018.09.13-02.16.56:535][409]LogSavePackage: Save=8.08ms
+[2018.09.13-02.16.56:535][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_1477785559DF7E0EA4FC9C6C50640F7A3DF3E954A.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778555.uasset'
+[2018.09.13-02.16.56:539][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778555.uasset
+[2018.09.13-02.16.56:552][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778555_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778555_001.uasset" SILENT=true
+[2018.09.13-02.16.56:562][409]LogSavePackage: Save=8.85ms
+[2018.09.13-02.16.56:562][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147778555_00170DB0F2C4ABAEAF9D2955FAF8E31BDF4.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778555_001.uasset'
+[2018.09.13-02.16.56:594][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778555_001.uasset
+[2018.09.13-02.16.56:606][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778557" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778557.uasset" SILENT=true
+[2018.09.13-02.16.56:616][409]LogSavePackage: Save=8.42ms
+[2018.09.13-02.16.56:616][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_1477785572E516A2A462D99491EDB61B5C9ABFAEE.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778557.uasset'
+[2018.09.13-02.16.56:618][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778557.uasset
+[2018.09.13-02.16.56:630][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778557_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778557_001.uasset" SILENT=true
+[2018.09.13-02.16.56:641][409]LogSavePackage: Save=9.57ms
+[2018.09.13-02.16.56:641][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147778557_0013AE3C4C341673946570A07B02AF9FA2E.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778557_001.uasset'
+[2018.09.13-02.16.56:644][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778557_001.uasset
+[2018.09.13-02.16.56:655][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778558" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778558.uasset" SILENT=true
+[2018.09.13-02.16.56:665][409]LogSavePackage: Save=7.94ms
+[2018.09.13-02.16.56:665][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_1477785587AD4B70D49445E137E01CFA1DEA801FB.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778558.uasset'
+[2018.09.13-02.16.56:667][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778558.uasset
+[2018.09.13-02.16.56:680][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778558_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778558_001.uasset" SILENT=true
+[2018.09.13-02.16.56:690][409]LogSavePackage: Save=9.14ms
+[2018.09.13-02.16.56:690][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147778558_00141E6F5D84B550ADCD4134B9F8626913B.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778558_001.uasset'
+[2018.09.13-02.16.56:693][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778558_001.uasset
+[2018.09.13-02.16.56:706][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778559" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778559.uasset" SILENT=true
+[2018.09.13-02.16.56:716][409]LogSavePackage: Save=8.63ms
+[2018.09.13-02.16.56:716][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147778559270AA3E5406643185E75B0AE8E779FC9.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778559.uasset'
+[2018.09.13-02.16.56:719][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778559.uasset
+[2018.09.13-02.16.56:731][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778559_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778559_001.uasset" SILENT=true
+[2018.09.13-02.16.56:742][409]LogSavePackage: Save=9.81ms
+[2018.09.13-02.16.56:742][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147778559_001EF0ECA0E438FCB8C704818BDB0BDD55D.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778559_001.uasset'
+[2018.09.13-02.16.56:745][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778559_001.uasset
+[2018.09.13-02.16.56:758][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778560" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778560.uasset" SILENT=true
+[2018.09.13-02.16.56:767][409]LogSavePackage: Save=8.21ms
+[2018.09.13-02.16.56:767][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147778560839EE70E47027F4B4EAC63A2DBE101A0.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778560.uasset'
+[2018.09.13-02.16.56:771][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778560.uasset
+[2018.09.13-02.16.56:783][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778560_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778560_001.uasset" SILENT=true
+[2018.09.13-02.16.56:823][409]LogSavePackage: Save=38.10ms
+[2018.09.13-02.16.56:823][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147778560_001C813E11D49862924693ACF96748B4936.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778560_001.uasset'
+[2018.09.13-02.16.56:825][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778560_001.uasset
+[2018.09.13-02.16.56:837][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778712" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778712.uasset" SILENT=true
+[2018.09.13-02.16.56:849][409]LogSavePackage: Save=11.39ms
+[2018.09.13-02.16.56:850][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147778712F9CABCFE4AA8D14A9F882D997ABEAA2E.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778712.uasset'
+[2018.09.13-02.16.56:854][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778712.uasset
+[2018.09.13-02.16.56:867][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778712_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778712_001.uasset" SILENT=true
+[2018.09.13-02.16.56:879][409]LogSavePackage: Save=10.52ms
+[2018.09.13-02.16.56:879][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147778712_00149FB836B432BD750C2CE169C836983EA.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778712_001.uasset'
+[2018.09.13-02.16.56:882][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778712_001.uasset
+[2018.09.13-02.16.56:894][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778713" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778713.uasset" SILENT=true
+[2018.09.13-02.16.56:904][409]LogSavePackage: Save=8.91ms
+[2018.09.13-02.16.56:904][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147778713B62CACAC4BD59F2EFB4B5CBF1FB44AD3.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778713.uasset'
+[2018.09.13-02.16.56:908][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778713.uasset
+[2018.09.13-02.16.56:920][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778713_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778713_001.uasset" SILENT=true
+[2018.09.13-02.16.56:931][409]LogSavePackage: Save=9.17ms
+[2018.09.13-02.16.56:931][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147778713_001D6E229B340E3E7AFF7DB2A88675CE4B1.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778713_001.uasset'
+[2018.09.13-02.16.56:934][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778713_001.uasset
+[2018.09.13-02.16.56:947][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778715" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778715.uasset" SILENT=true
+[2018.09.13-02.16.56:956][409]LogSavePackage: Save=8.29ms
+[2018.09.13-02.16.56:956][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147778715DDA7793B4C7CCAA0FFD92C9F7438108E.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778715.uasset'
+[2018.09.13-02.16.56:959][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778715.uasset
+[2018.09.13-02.16.56:970][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778715_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778715_001.uasset" SILENT=true
+[2018.09.13-02.16.56:984][409]LogSavePackage: Save=12.12ms
+[2018.09.13-02.16.56:984][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147778715_001D15FC756432DD838F51790BD59380667.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778715_001.uasset'
+[2018.09.13-02.16.56:989][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778715_001.uasset
+[2018.09.13-02.16.57:002][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778716" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778716.uasset" SILENT=true
+[2018.09.13-02.16.57:013][409]LogSavePackage: Save=9.27ms
+[2018.09.13-02.16.57:013][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147778716506BC6924DC7D317D592E9996C8307E8.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778716.uasset'
+[2018.09.13-02.16.57:018][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778716.uasset
+[2018.09.13-02.16.57:030][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778716_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778716_001.uasset" SILENT=true
+[2018.09.13-02.16.57:041][409]LogSavePackage: Save=9.65ms
+[2018.09.13-02.16.57:041][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147778716_001674DBAD241D61E876AB551810EE97548.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778716_001.uasset'
+[2018.09.13-02.16.57:045][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778716_001.uasset
+[2018.09.13-02.16.57:058][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778721" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778721.uasset" SILENT=true
+[2018.09.13-02.16.57:067][409]LogSavePackage: Save=7.87ms
+[2018.09.13-02.16.57:067][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147778721B6B33F284AA07D7A17CFC58AD3D0A069.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778721.uasset'
+[2018.09.13-02.16.57:071][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778721.uasset
+[2018.09.13-02.16.57:084][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147778721_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778721_001.uasset" SILENT=true
+[2018.09.13-02.16.57:094][409]LogSavePackage: Save=9.29ms
+[2018.09.13-02.16.57:094][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147778721_00137F33D8A4866A8F228B704A15BC7FA28.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778721_001.uasset'
+[2018.09.13-02.16.57:097][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147778721_001.uasset
+[2018.09.13-02.16.57:110][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147779139" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147779139.uasset" SILENT=true
+[2018.09.13-02.16.57:121][409]LogSavePackage: Save=10.03ms
+[2018.09.13-02.16.57:121][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_14777913968818BB947C7AE99F227978FE9AFFCF7.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147779139.uasset'
+[2018.09.13-02.16.57:124][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147779139.uasset
+[2018.09.13-02.16.57:137][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147779139_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147779139_001.uasset" SILENT=true
+[2018.09.13-02.16.57:148][409]LogSavePackage: Save=9.43ms
+[2018.09.13-02.16.57:148][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147779139_0011431753049362F0A71F9069A2379B810.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147779139_001.uasset'
+[2018.09.13-02.16.57:152][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147779139_001.uasset
+[2018.09.13-02.16.57:164][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147779140" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147779140.uasset" SILENT=true
+[2018.09.13-02.16.57:175][409]LogSavePackage: Save=9.28ms
+[2018.09.13-02.16.57:175][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147779140D685C96D4A30B85D969471AFF38FC2CA.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147779140.uasset'
+[2018.09.13-02.16.57:179][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147779140.uasset
+[2018.09.13-02.16.57:192][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147779140_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147779140_001.uasset" SILENT=true
+[2018.09.13-02.16.57:202][409]LogSavePackage: Save=9.52ms
+[2018.09.13-02.16.57:202][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147779140_001685BDF1E4586E13DCE590EB18195876A.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147779140_001.uasset'
+[2018.09.13-02.16.57:205][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147779140_001.uasset
+[2018.09.13-02.16.57:218][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147779141" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147779141.uasset" SILENT=true
+[2018.09.13-02.16.57:228][409]LogSavePackage: Save=8.59ms
+[2018.09.13-02.16.57:228][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_1477791413A050AEF4FFA3B791A0926A228B00E2B.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147779141.uasset'
+[2018.09.13-02.16.57:231][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147779141.uasset
+[2018.09.13-02.16.57:242][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147779141_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147779141_001.uasset" SILENT=true
+[2018.09.13-02.16.57:255][409]LogSavePackage: Save=11.06ms
+[2018.09.13-02.16.57:255][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147779141_001340D78F74D25423FFD2F25908C7A61FF.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147779141_001.uasset'
+[2018.09.13-02.16.57:257][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147779141_001.uasset
+[2018.09.13-02.16.57:270][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147855636" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147855636.uasset" SILENT=true
+[2018.09.13-02.16.57:282][409]LogSavePackage: Save=11.51ms
+[2018.09.13-02.16.57:283][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_14785563635D98857461601B8EDC211B730ED3074.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147855636.uasset'
+[2018.09.13-02.16.57:286][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147855636.uasset
+[2018.09.13-02.16.57:297][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147855636_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147855636_001.uasset" SILENT=true
+[2018.09.13-02.16.57:307][409]LogSavePackage: Save=8.79ms
+[2018.09.13-02.16.57:307][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147855636_0014B1A1EC447E22D3A62F3CD853D37331D.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147855636_001.uasset'
+[2018.09.13-02.16.57:311][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147855636_001.uasset
+[2018.09.13-02.16.57:324][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147855644" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147855644.uasset" SILENT=true
+[2018.09.13-02.16.57:333][409]LogSavePackage: Save=8.11ms
+[2018.09.13-02.16.57:333][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147855644F69B45C7463FA1E05085C0B8BFCD2237.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147855644.uasset'
+[2018.09.13-02.16.57:337][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147855644.uasset
+[2018.09.13-02.16.57:348][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147855644_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147855644_001.uasset" SILENT=true
+[2018.09.13-02.16.57:360][409]LogSavePackage: Save=10.36ms
+[2018.09.13-02.16.57:360][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147855644_001BFB33BD44F5C89FD303672974DB68662.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147855644_001.uasset'
+[2018.09.13-02.16.57:363][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147855644_001.uasset
+[2018.09.13-02.16.57:375][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147857305" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147857305.uasset" SILENT=true
+[2018.09.13-02.16.57:385][409]LogSavePackage: Save=9.75ms
+[2018.09.13-02.16.57:385][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147857305D4CF1D4543CD130C475A368CFA91B815.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147857305.uasset'
+[2018.09.13-02.16.57:389][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147857305.uasset
+[2018.09.13-02.16.57:400][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147857305_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147857305_001.uasset" SILENT=true
+[2018.09.13-02.16.57:410][409]LogSavePackage: Save=8.39ms
+[2018.09.13-02.16.57:410][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147857305_001F5E91B344A468ACFF2C35AA8FD5CD11B.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147857305_001.uasset'
+[2018.09.13-02.16.57:414][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147857305_001.uasset
+[2018.09.13-02.16.57:425][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147857307" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147857307.uasset" SILENT=true
+[2018.09.13-02.16.57:435][409]LogSavePackage: Save=8.40ms
+[2018.09.13-02.16.57:435][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147857307FE5A4BF34155548FA0875C83069391A8.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147857307.uasset'
+[2018.09.13-02.16.57:437][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147857307.uasset
+[2018.09.13-02.16.57:450][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147857307_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147857307_001.uasset" SILENT=true
+[2018.09.13-02.16.57:460][409]LogSavePackage: Save=8.69ms
+[2018.09.13-02.16.57:460][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147857307_0013BC1B87A45BB46FBE371FB84925CA6A0.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147857307_001.uasset'
+[2018.09.13-02.16.57:463][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147857307_001.uasset
+[2018.09.13-02.16.57:474][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147857308" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147857308.uasset" SILENT=true
+[2018.09.13-02.16.57:486][409]LogSavePackage: Save=10.78ms
+[2018.09.13-02.16.57:486][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_1478573089D7B98324D1410A5ECBAD8B5E0E98A9E.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147857308.uasset'
+[2018.09.13-02.16.57:489][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147857308.uasset
+[2018.09.13-02.16.57:501][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_147857308_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147857308_001.uasset" SILENT=true
+[2018.09.13-02.16.57:513][409]LogSavePackage: Save=10.63ms
+[2018.09.13-02.16.57:513][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_147857308_001A7E367A64E885718BCBB32B4A6EA8837.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147857308_001.uasset'
+[2018.09.13-02.16.57:517][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_147857308_001.uasset
+[2018.09.13-02.16.57:530][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_148435684" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_148435684.uasset" SILENT=true
+[2018.09.13-02.16.57:540][409]LogSavePackage: Save=8.30ms
+[2018.09.13-02.16.57:540][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_1484356848A0DE73E4D2FD20A0D68B59975A70CAB.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_148435684.uasset'
+[2018.09.13-02.16.57:542][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_148435684.uasset
+[2018.09.13-02.16.57:555][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_148435684_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_148435684_001.uasset" SILENT=true
+[2018.09.13-02.16.57:565][409]LogSavePackage: Save=8.48ms
+[2018.09.13-02.16.57:565][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_148435684_001FAF65B9744FADAD4092C889220D5D57B.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_148435684_001.uasset'
+[2018.09.13-02.16.57:568][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_148435684_001.uasset
+[2018.09.13-02.16.57:580][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_148435685" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_148435685.uasset" SILENT=true
+[2018.09.13-02.16.57:593][409]LogSavePackage: Save=10.84ms
+[2018.09.13-02.16.57:593][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_14843568506A16BF3400D6923FE6C3A85DE549DD5.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_148435685.uasset'
+[2018.09.13-02.16.57:596][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_148435685.uasset
+[2018.09.13-02.16.57:607][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_148435685_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_148435685_001.uasset" SILENT=true
+[2018.09.13-02.16.57:618][409]LogSavePackage: Save=10.53ms
+[2018.09.13-02.16.57:618][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_148435685_001CBDD0F544FA0234A235931B1377616D4.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_148435685_001.uasset'
+[2018.09.13-02.16.57:621][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_148435685_001.uasset
+[2018.09.13-02.16.57:633][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_149530311" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_149530311.uasset" SILENT=true
+[2018.09.13-02.16.57:642][409]LogSavePackage: Save=7.76ms
+[2018.09.13-02.16.57:642][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_14953031125D11E264902B0E16BB70AAEB56C9F84.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_149530311.uasset'
+[2018.09.13-02.16.57:645][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_149530311.uasset
+[2018.09.13-02.16.57:657][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_149530311_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_149530311_001.uasset" SILENT=true
+[2018.09.13-02.16.57:676][409]LogSavePackage: Save=9.00ms
+[2018.09.13-02.16.57:676][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_149530311_001A8B1D59F469BC1EF3926B990B81BAE6B.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_149530311_001.uasset'
+[2018.09.13-02.16.57:679][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_149530311_001.uasset
+[2018.09.13-02.16.57:693][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_160202972" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_160202972.uasset" SILENT=true
+[2018.09.13-02.16.57:704][409]LogSavePackage: Save=9.24ms
+[2018.09.13-02.16.57:704][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_16020297225B55F404AE96387BA681590CBF4ED8B.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_160202972.uasset'
+[2018.09.13-02.16.57:706][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_160202972.uasset
+[2018.09.13-02.16.57:719][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_160202972_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_160202972_001.uasset" SILENT=true
+[2018.09.13-02.16.57:731][409]LogSavePackage: Save=10.26ms
+[2018.09.13-02.16.57:731][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_160202972_001ED8E25CF4B72D396B16B278B2F2EC21D.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_160202972_001.uasset'
+[2018.09.13-02.16.57:734][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_160202972_001.uasset
+[2018.09.13-02.16.57:749][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_165386107" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_165386107.uasset" SILENT=true
+[2018.09.13-02.16.57:760][409]LogSavePackage: Save=8.91ms
+[2018.09.13-02.16.57:760][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_16538610784DC025445C14027610778B004B4FB5F.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_165386107.uasset'
+[2018.09.13-02.16.57:762][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_165386107.uasset
+[2018.09.13-02.16.57:774][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_165386107_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_165386107_001.uasset" SILENT=true
+[2018.09.13-02.16.57:786][409]LogSavePackage: Save=10.34ms
+[2018.09.13-02.16.57:786][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_165386107_001954C967E49698814C1E8EFA64F7E5B03.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_165386107_001.uasset'
+[2018.09.13-02.16.57:789][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_165386107_001.uasset
+[2018.09.13-02.16.57:801][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_186907756" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186907756.uasset" SILENT=true
+[2018.09.13-02.16.57:810][409]LogSavePackage: Save=8.16ms
+[2018.09.13-02.16.57:810][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_186907756361F0F14441872886507A2ACB204F0C7.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186907756.uasset'
+[2018.09.13-02.16.57:813][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186907756.uasset
+[2018.09.13-02.16.57:828][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_186907756_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186907756_001.uasset" SILENT=true
+[2018.09.13-02.16.57:839][409]LogSavePackage: Save=8.88ms
+[2018.09.13-02.16.57:839][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_186907756_001B9C6E83F4B6AFE7875FFECB6C88991E5.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186907756_001.uasset'
+[2018.09.13-02.16.57:842][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186907756_001.uasset
+[2018.09.13-02.16.57:857][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_186907757" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186907757.uasset" SILENT=true
+[2018.09.13-02.16.57:867][409]LogSavePackage: Save=8.86ms
+[2018.09.13-02.16.57:867][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_18690775758C55F2445B5ABD52C279689326C5AF8.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186907757.uasset'
+[2018.09.13-02.16.57:869][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186907757.uasset
+[2018.09.13-02.16.57:880][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_186907757_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186907757_001.uasset" SILENT=true
+[2018.09.13-02.16.57:929][409]LogSavePackage: Save=10.63ms
+[2018.09.13-02.16.57:929][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_186907757_0019DAB5F7943FEC8EEE9532BA7228467A9.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186907757_001.uasset'
+[2018.09.13-02.16.57:933][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186907757_001.uasset
+[2018.09.13-02.16.57:958][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_186907758" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186907758.uasset" SILENT=true
+[2018.09.13-02.16.57:969][409]LogSavePackage: Save=9.65ms
+[2018.09.13-02.16.57:969][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_1869077585E0E8E4F484A9F3020658D90C3956B32.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186907758.uasset'
+[2018.09.13-02.16.57:972][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186907758.uasset
+[2018.09.13-02.16.57:985][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_186907758_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186907758_001.uasset" SILENT=true
+[2018.09.13-02.16.58:049][409]LogSavePackage: Save=62.96ms
+[2018.09.13-02.16.58:049][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_186907758_001B806BFC34D77395B725F84B3673235D7.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186907758_001.uasset'
+[2018.09.13-02.16.58:053][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186907758_001.uasset
+[2018.09.13-02.16.58:067][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_186908334" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186908334.uasset" SILENT=true
+[2018.09.13-02.16.58:077][409]LogSavePackage: Save=8.61ms
+[2018.09.13-02.16.58:077][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_18690833442D5D42F4435C8E7BF31FDAD5F1300F5.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186908334.uasset'
+[2018.09.13-02.16.58:080][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186908334.uasset
+[2018.09.13-02.16.58:096][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_186908334_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186908334_001.uasset" SILENT=true
+[2018.09.13-02.16.58:108][409]LogSavePackage: Save=10.33ms
+[2018.09.13-02.16.58:108][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_186908334_001A4114CDD46BEC38C82B96EB7AF817FA8.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186908334_001.uasset'
+[2018.09.13-02.16.58:111][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186908334_001.uasset
+[2018.09.13-02.16.58:127][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_186908335" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186908335.uasset" SILENT=true
+[2018.09.13-02.16.58:138][409]LogSavePackage: Save=9.79ms
+[2018.09.13-02.16.58:138][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_186908335C8C922204F13D3355A5C31812E671A52.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186908335.uasset'
+[2018.09.13-02.16.58:141][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186908335.uasset
+[2018.09.13-02.16.58:153][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_186908335_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186908335_001.uasset" SILENT=true
+[2018.09.13-02.16.58:167][409]LogSavePackage: Save=11.85ms
+[2018.09.13-02.16.58:167][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_186908335_001D4EDAE7F49CC34E23C013DADEBFA5A01.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186908335_001.uasset'
+[2018.09.13-02.16.58:169][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_186908335_001.uasset
+[2018.09.13-02.16.58:227][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_1号館" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_1号館.uasset" SILENT=true
+[2018.09.13-02.16.58:237][409]LogSavePackage: Save=8.47ms
+[2018.09.13-02.16.58:237][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_1号館D444406F4F9AB8F6F6409AA190A8DE82.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_1号館.uasset'
+[2018.09.13-02.16.58:241][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_1号館.uasset
+[2018.09.13-02.16.58:255][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_1号館_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_1号館_001.uasset" SILENT=true
+[2018.09.13-02.16.58:268][409]LogSavePackage: Save=10.55ms
+[2018.09.13-02.16.58:268][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_1号館_001520EAE764B3FCE9C48127BB1157A5560.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_1号館_001.uasset'
+[2018.09.13-02.16.58:292][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_1号館_001.uasset
+[2018.09.13-02.16.58:307][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_221689091" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_221689091.uasset" SILENT=true
+[2018.09.13-02.16.58:317][409]LogSavePackage: Save=9.04ms
+[2018.09.13-02.16.58:317][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_22168909186DE04BA4B9A3ACEDAF17E93D1374F16.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_221689091.uasset'
+[2018.09.13-02.16.58:320][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_221689091.uasset
+[2018.09.13-02.16.58:334][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_221689091_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_221689091_001.uasset" SILENT=true
+[2018.09.13-02.16.58:345][409]LogSavePackage: Save=9.88ms
+[2018.09.13-02.16.58:345][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_221689091_001CE3297CD4ED4988B0DED3AB989EA31F8.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_221689091_001.uasset'
+[2018.09.13-02.16.58:347][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_221689091_001.uasset
+[2018.09.13-02.16.58:360][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_2号館" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_2号館.uasset" SILENT=true
+[2018.09.13-02.16.58:369][409]LogSavePackage: Save=8.74ms
+[2018.09.13-02.16.58:369][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_2号館59B67249453060240AD98281662075E4.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_2号館.uasset'
+[2018.09.13-02.16.58:372][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_2号館.uasset
+[2018.09.13-02.16.58:383][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_2号館_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_2号館_001.uasset" SILENT=true
+[2018.09.13-02.16.58:395][409]LogSavePackage: Save=10.41ms
+[2018.09.13-02.16.58:395][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_2号館_0016B67970E4B4B4214A8CBA8B03B8E1944.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_2号館_001.uasset'
+[2018.09.13-02.16.58:398][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_2号館_001.uasset
+[2018.09.13-02.16.58:411][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_345557854" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_345557854.uasset" SILENT=true
+[2018.09.13-02.16.58:422][409]LogSavePackage: Save=8.99ms
+[2018.09.13-02.16.58:422][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_3455578547D98BD91410F6F8599544394D1E775EF.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_345557854.uasset'
+[2018.09.13-02.16.58:425][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_345557854.uasset
+[2018.09.13-02.16.58:440][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_345557854_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_345557854_001.uasset" SILENT=true
+[2018.09.13-02.16.58:451][409]LogSavePackage: Save=10.42ms
+[2018.09.13-02.16.58:452][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_345557854_0018A85345445CE0A39419CF08BA8E1E189.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_345557854_001.uasset'
+[2018.09.13-02.16.58:454][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_345557854_001.uasset
+[2018.09.13-02.16.58:467][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_3号館" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_3号館.uasset" SILENT=true
+[2018.09.13-02.16.58:478][409]LogSavePackage: Save=9.81ms
+[2018.09.13-02.16.58:478][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_3号館8E2EDEA0494DCEA020CB388CCA6AF0B4.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_3号館.uasset'
+[2018.09.13-02.16.58:481][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_3号館.uasset
+[2018.09.13-02.16.58:494][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_3号館_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_3号館_001.uasset" SILENT=true
+[2018.09.13-02.16.58:506][409]LogSavePackage: Save=9.97ms
+[2018.09.13-02.16.58:506][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_3号館_001C1042EFA4C22F5DBF04FCDA5996E35AA.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_3号館_001.uasset'
+[2018.09.13-02.16.58:510][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_3号館_001.uasset
+[2018.09.13-02.16.58:523][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544713790" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544713790.uasset" SILENT=true
+[2018.09.13-02.16.58:537][409]LogSavePackage: Save=11.32ms
+[2018.09.13-02.16.58:537][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544713790E46623064FB9520411E73BA2FBD09AC1.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544713790.uasset'
+[2018.09.13-02.16.58:540][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544713790.uasset
+[2018.09.13-02.16.58:557][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544713790_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544713790_001.uasset" SILENT=true
+[2018.09.13-02.16.58:569][409]LogSavePackage: Save=10.72ms
+[2018.09.13-02.16.58:569][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544713790_00167B69F0A4335706F7A36CA89BDF52308.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544713790_001.uasset'
+[2018.09.13-02.16.58:571][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544713790_001.uasset
+[2018.09.13-02.16.58:583][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929752" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929752.uasset" SILENT=true
+[2018.09.13-02.16.58:594][409]LogSavePackage: Save=9.91ms
+[2018.09.13-02.16.58:594][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929752768C2F504DC219D5FEF2E0BD77E0AF6B.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929752.uasset'
+[2018.09.13-02.16.58:597][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929752.uasset
+[2018.09.13-02.16.58:610][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929752_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929752_001.uasset" SILENT=true
+[2018.09.13-02.16.58:635][409]LogSavePackage: Save=23.72ms
+[2018.09.13-02.16.58:635][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929752_0014AE04E444F1B1B7961AC3A9D1B3B3CF6.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929752_001.uasset'
+[2018.09.13-02.16.58:638][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929752_001.uasset
+[2018.09.13-02.16.58:649][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929757" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929757.uasset" SILENT=true
+[2018.09.13-02.16.58:660][409]LogSavePackage: Save=9.45ms
+[2018.09.13-02.16.58:660][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_54492975723B8C89B4FA0768EE2DB0885E9DDF825.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929757.uasset'
+[2018.09.13-02.16.58:664][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929757.uasset
+[2018.09.13-02.16.58:676][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929757_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929757_001.uasset" SILENT=true
+[2018.09.13-02.16.58:687][409]LogSavePackage: Save=9.24ms
+[2018.09.13-02.16.58:687][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929757_001F29C64C54D407C15FEE3F0A029C9E453.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929757_001.uasset'
+[2018.09.13-02.16.58:691][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929757_001.uasset
+[2018.09.13-02.16.58:704][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929758" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929758.uasset" SILENT=true
+[2018.09.13-02.16.58:714][409]LogSavePackage: Save=9.56ms
+[2018.09.13-02.16.58:714][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929758F5B911134CF30DF3F1AE5CB69EE2B887.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929758.uasset'
+[2018.09.13-02.16.58:716][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929758.uasset
+[2018.09.13-02.16.58:729][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929758_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929758_001.uasset" SILENT=true
+[2018.09.13-02.16.58:758][409]LogSavePackage: Save=27.27ms
+[2018.09.13-02.16.58:758][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929758_001763D0EF64AFC6597A0C562BC8FF2CFF6.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929758_001.uasset'
+[2018.09.13-02.16.58:761][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929758_001.uasset
+[2018.09.13-02.16.58:775][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929765" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929765.uasset" SILENT=true
+[2018.09.13-02.16.58:785][409]LogSavePackage: Save=8.94ms
+[2018.09.13-02.16.58:785][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_54492976584862E1D4F4B7387A1BE1F8FA9B24266.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929765.uasset'
+[2018.09.13-02.16.58:789][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929765.uasset
+[2018.09.13-02.16.58:803][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929765_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929765_001.uasset" SILENT=true
+[2018.09.13-02.16.58:814][409]LogSavePackage: Save=9.83ms
+[2018.09.13-02.16.58:814][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929765_001029C1F9048DEFB171EEC0CB7050A46E1.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929765_001.uasset'
+[2018.09.13-02.16.58:817][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929765_001.uasset
+[2018.09.13-02.16.58:833][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929766" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929766.uasset" SILENT=true
+[2018.09.13-02.16.58:843][409]LogSavePackage: Save=8.76ms
+[2018.09.13-02.16.58:843][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_5449297668393866941296A5122B716AA02F75A65.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929766.uasset'
+[2018.09.13-02.16.58:845][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929766.uasset
+[2018.09.13-02.16.58:860][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929766_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929766_001.uasset" SILENT=true
+[2018.09.13-02.16.58:870][409]LogSavePackage: Save=8.72ms
+[2018.09.13-02.16.58:870][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929766_0017BCD14AF495AE66FB3F90FA711A518DF.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929766_001.uasset'
+[2018.09.13-02.16.58:873][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929766_001.uasset
+[2018.09.13-02.16.58:885][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929768" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929768.uasset" SILENT=true
+[2018.09.13-02.16.58:897][409]LogSavePackage: Save=10.87ms
+[2018.09.13-02.16.58:897][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_5449297687E848C1841BC406CFD8E108CBB31C278.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929768.uasset'
+[2018.09.13-02.16.58:900][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929768.uasset
+[2018.09.13-02.16.58:913][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929768_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929768_001.uasset" SILENT=true
+[2018.09.13-02.16.58:924][409]LogSavePackage: Save=10.19ms
+[2018.09.13-02.16.58:924][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929768_00137EC100E4CBD7B90A62282815E5BD714.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929768_001.uasset'
+[2018.09.13-02.16.58:929][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929768_001.uasset
+[2018.09.13-02.16.58:947][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929770" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929770.uasset" SILENT=true
+[2018.09.13-02.16.58:959][409]LogSavePackage: Save=10.78ms
+[2018.09.13-02.16.58:959][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_54492977077D85FF64B751770CFDB79B6B60AA686.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929770.uasset'
+[2018.09.13-02.16.58:962][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929770.uasset
+[2018.09.13-02.16.58:976][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929770_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929770_001.uasset" SILENT=true
+[2018.09.13-02.16.58:988][409]LogSavePackage: Save=10.06ms
+[2018.09.13-02.16.58:988][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929770_001B332F4954B365B55B4817FB7C1557BE9.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929770_001.uasset'
+[2018.09.13-02.16.58:992][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929770_001.uasset
+[2018.09.13-02.16.59:007][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929773" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929773.uasset" SILENT=true
+[2018.09.13-02.16.59:017][409]LogSavePackage: Save=9.05ms
+[2018.09.13-02.16.59:017][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929773695EF25342328B9C16130EAAF8714915.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929773.uasset'
+[2018.09.13-02.16.59:020][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929773.uasset
+[2018.09.13-02.16.59:035][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929773_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929773_001.uasset" SILENT=true
+[2018.09.13-02.16.59:047][409]LogSavePackage: Save=10.35ms
+[2018.09.13-02.16.59:047][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929773_001F8740DEA42EC26F0197D7291641026EF.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929773_001.uasset'
+[2018.09.13-02.16.59:050][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929773_001.uasset
+[2018.09.13-02.16.59:063][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929775" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929775.uasset" SILENT=true
+[2018.09.13-02.16.59:073][409]LogSavePackage: Save=8.38ms
+[2018.09.13-02.16.59:073][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_5449297751458B15D43C18E66DFA19EAB3B71D122.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929775.uasset'
+[2018.09.13-02.16.59:076][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929775.uasset
+[2018.09.13-02.16.59:088][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929775_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929775_001.uasset" SILENT=true
+[2018.09.13-02.16.59:100][409]LogSavePackage: Save=10.73ms
+[2018.09.13-02.16.59:100][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929775_0018F9489264335E3191CB3649A597C4646.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929775_001.uasset'
+[2018.09.13-02.16.59:102][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929775_001.uasset
+[2018.09.13-02.16.59:114][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929777" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929777.uasset" SILENT=true
+[2018.09.13-02.16.59:123][409]LogSavePackage: Save=8.71ms
+[2018.09.13-02.16.59:123][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929777AA4BEFF84F8D9A0FB0D3F3A4A0F7B0A0.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929777.uasset'
+[2018.09.13-02.16.59:126][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929777.uasset
+[2018.09.13-02.16.59:138][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929777_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929777_001.uasset" SILENT=true
+[2018.09.13-02.16.59:149][409]LogSavePackage: Save=9.27ms
+[2018.09.13-02.16.59:149][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929777_0013FF0D9B6441CFD7C9DF54FB42310E527.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929777_001.uasset'
+[2018.09.13-02.16.59:152][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929777_001.uasset
+[2018.09.13-02.16.59:167][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929779" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929779.uasset" SILENT=true
+[2018.09.13-02.16.59:177][409]LogSavePackage: Save=8.73ms
+[2018.09.13-02.16.59:177][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929779ED8C917A4EB71DD83F4DB6ACA4A4B9A6.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929779.uasset'
+[2018.09.13-02.16.59:180][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929779.uasset
+[2018.09.13-02.16.59:193][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929779_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929779_001.uasset" SILENT=true
+[2018.09.13-02.16.59:205][409]LogSavePackage: Save=9.69ms
+[2018.09.13-02.16.59:205][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929779_00174966E3B4BE8C62D5E5FE19ECED3F790.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929779_001.uasset'
+[2018.09.13-02.16.59:207][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929779_001.uasset
+[2018.09.13-02.16.59:220][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929781" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929781.uasset" SILENT=true
+[2018.09.13-02.16.59:232][409]LogSavePackage: Save=11.04ms
+[2018.09.13-02.16.59:232][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929781161E3E7546D9771490E208BFE8A06ABC.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929781.uasset'
+[2018.09.13-02.16.59:234][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929781.uasset
+[2018.09.13-02.16.59:246][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929781_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929781_001.uasset" SILENT=true
+[2018.09.13-02.16.59:256][409]LogSavePackage: Save=8.88ms
+[2018.09.13-02.16.59:256][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929781_001EBE6C89E4D62469918AC0DAB43C83C11.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929781_001.uasset'
+[2018.09.13-02.16.59:260][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929781_001.uasset
+[2018.09.13-02.16.59:274][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929783" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929783.uasset" SILENT=true
+[2018.09.13-02.16.59:283][409]LogSavePackage: Save=7.96ms
+[2018.09.13-02.16.59:283][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929783A30716D04C7388AE8A2D11A7AC564F3C.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929783.uasset'
+[2018.09.13-02.16.59:285][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929783.uasset
+[2018.09.13-02.16.59:297][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929783_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929783_001.uasset" SILENT=true
+[2018.09.13-02.16.59:397][409]LogSavePackage: Save=8.87ms
+[2018.09.13-02.16.59:397][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929783_001EF2DBFE44B54D2296611409546941986.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929783_001.uasset'
+[2018.09.13-02.16.59:400][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929783_001.uasset
+[2018.09.13-02.16.59:414][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929787" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929787.uasset" SILENT=true
+[2018.09.13-02.16.59:427][409]LogSavePackage: Save=11.12ms
+[2018.09.13-02.16.59:427][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929787191ABEEC455E726EC60DCA852ED2EC6D.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929787.uasset'
+[2018.09.13-02.16.59:430][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929787.uasset
+[2018.09.13-02.16.59:444][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929787_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929787_001.uasset" SILENT=true
+[2018.09.13-02.16.59:457][409]LogSavePackage: Save=11.61ms
+[2018.09.13-02.16.59:457][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929787_001E0D94ACE49060C7D7F6582BCBE53C1CE.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929787_001.uasset'
+[2018.09.13-02.16.59:461][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929787_001.uasset
+[2018.09.13-02.16.59:476][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929789" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929789.uasset" SILENT=true
+[2018.09.13-02.16.59:488][409]LogSavePackage: Save=10.27ms
+[2018.09.13-02.16.59:488][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_5449297891731CC0E4F54D17649FDC0AA073481B0.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929789.uasset'
+[2018.09.13-02.16.59:491][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929789.uasset
+[2018.09.13-02.16.59:509][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929789_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929789_001.uasset" SILENT=true
+[2018.09.13-02.16.59:524][409]LogSavePackage: Save=12.27ms
+[2018.09.13-02.16.59:524][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929789_0014984C87C48742380364579AEE3B5B41A.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929789_001.uasset'
+[2018.09.13-02.16.59:528][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929789_001.uasset
+[2018.09.13-02.16.59:543][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929791" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929791.uasset" SILENT=true
+[2018.09.13-02.16.59:555][409]LogSavePackage: Save=10.10ms
+[2018.09.13-02.16.59:555][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_5449297915C6490BB4BFD00D55B5004BAB4E1E880.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929791.uasset'
+[2018.09.13-02.16.59:560][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929791.uasset
+[2018.09.13-02.16.59:575][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929791_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929791_001.uasset" SILENT=true
+[2018.09.13-02.16.59:586][409]LogSavePackage: Save=9.76ms
+[2018.09.13-02.16.59:586][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929791_00158F5502641C683D216F2B1AF484CBA42.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929791_001.uasset'
+[2018.09.13-02.16.59:589][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929791_001.uasset
+[2018.09.13-02.16.59:604][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929793" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929793.uasset" SILENT=true
+[2018.09.13-02.16.59:615][409]LogSavePackage: Save=9.52ms
+[2018.09.13-02.16.59:615][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929793055EA1B7427512D9205147AC74D5AA00.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929793.uasset'
+[2018.09.13-02.16.59:618][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929793.uasset
+[2018.09.13-02.16.59:630][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929793_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929793_001.uasset" SILENT=true
+[2018.09.13-02.16.59:641][409]LogSavePackage: Save=9.54ms
+[2018.09.13-02.16.59:642][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929793_00155ABB6EB43E83FF019410FB31F9C191A.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929793_001.uasset'
+[2018.09.13-02.16.59:644][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929793_001.uasset
+[2018.09.13-02.16.59:655][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929795" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929795.uasset" SILENT=true
+[2018.09.13-02.16.59:666][409]LogSavePackage: Save=9.55ms
+[2018.09.13-02.16.59:666][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929795C1156BDB4665D955359D8CB00B36DB5A.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929795.uasset'
+[2018.09.13-02.16.59:669][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929795.uasset
+[2018.09.13-02.16.59:681][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544929795_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929795_001.uasset" SILENT=true
+[2018.09.13-02.16.59:691][409]LogSavePackage: Save=8.89ms
+[2018.09.13-02.16.59:691][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544929795_00176880620408CE48D1AE69EAE901BA945.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929795_001.uasset'
+[2018.09.13-02.16.59:693][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544929795_001.uasset
+[2018.09.13-02.16.59:706][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931874" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931874.uasset" SILENT=true
+[2018.09.13-02.16.59:715][409]LogSavePackage: Save=8.01ms
+[2018.09.13-02.16.59:715][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931874DE492FB5485C69DF90316ABD35B322CE.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931874.uasset'
+[2018.09.13-02.16.59:718][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931874.uasset
+[2018.09.13-02.16.59:729][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931874_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931874_001.uasset" SILENT=true
+[2018.09.13-02.16.59:742][409]LogSavePackage: Save=11.60ms
+[2018.09.13-02.16.59:742][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931874_00129A5AC0B4D1E0BCEEF6232AD3559C333.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931874_001.uasset'
+[2018.09.13-02.16.59:745][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931874_001.uasset
+[2018.09.13-02.16.59:757][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931875" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931875.uasset" SILENT=true
+[2018.09.13-02.16.59:769][409]LogSavePackage: Save=10.40ms
+[2018.09.13-02.16.59:769][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_5449318757ACB263B4D8AC89BE546D482A4C0F5F7.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931875.uasset'
+[2018.09.13-02.16.59:772][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931875.uasset
+[2018.09.13-02.16.59:785][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931875_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931875_001.uasset" SILENT=true
+[2018.09.13-02.16.59:796][409]LogSavePackage: Save=10.07ms
+[2018.09.13-02.16.59:796][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931875_001631E0AB64849D7753E3EF0A12847607E.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931875_001.uasset'
+[2018.09.13-02.16.59:800][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931875_001.uasset
+[2018.09.13-02.16.59:811][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931876" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931876.uasset" SILENT=true
+[2018.09.13-02.16.59:821][409]LogSavePackage: Save=8.76ms
+[2018.09.13-02.16.59:821][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_54493187691BAA68C44C383F01DDF689BF89108DF.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931876.uasset'
+[2018.09.13-02.16.59:823][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931876.uasset
+[2018.09.13-02.16.59:838][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931876_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931876_001.uasset" SILENT=true
+[2018.09.13-02.16.59:850][409]LogSavePackage: Save=9.78ms
+[2018.09.13-02.16.59:850][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931876_001556712C34DE89804076F18BF675AAD47.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931876_001.uasset'
+[2018.09.13-02.16.59:853][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931876_001.uasset
+[2018.09.13-02.16.59:867][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931877" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931877.uasset" SILENT=true
+[2018.09.13-02.16.59:879][409]LogSavePackage: Save=9.87ms
+[2018.09.13-02.16.59:879][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931877C26C5CA3492D86FEF74085B9A632D130.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931877.uasset'
+[2018.09.13-02.16.59:881][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931877.uasset
+[2018.09.13-02.16.59:892][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931877_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931877_001.uasset" SILENT=true
+[2018.09.13-02.16.59:904][409]LogSavePackage: Save=10.67ms
+[2018.09.13-02.16.59:904][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931877_0011926C0194300ECA9AC75D183A19B715D.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931877_001.uasset'
+[2018.09.13-02.16.59:906][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931877_001.uasset
+[2018.09.13-02.16.59:918][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931878" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931878.uasset" SILENT=true
+[2018.09.13-02.16.59:928][409]LogSavePackage: Save=7.98ms
+[2018.09.13-02.16.59:928][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_5449318789C2CAAA64C3528C8A0492E9B13A6C818.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931878.uasset'
+[2018.09.13-02.16.59:930][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931878.uasset
+[2018.09.13-02.16.59:944][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931878_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931878_001.uasset" SILENT=true
+[2018.09.13-02.16.59:955][409]LogSavePackage: Save=9.84ms
+[2018.09.13-02.16.59:955][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931878_001B57DD51A45AF827C4E801C968EF39B3A.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931878_001.uasset'
+[2018.09.13-02.16.59:957][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931878_001.uasset
+[2018.09.13-02.16.59:971][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931879" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931879.uasset" SILENT=true
+[2018.09.13-02.16.59:981][409]LogSavePackage: Save=8.34ms
+[2018.09.13-02.16.59:981][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_54493187957E4DD20487A7A66E89FE9BFF179FD03.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931879.uasset'
+[2018.09.13-02.16.59:983][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931879.uasset
+[2018.09.13-02.16.59:994][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931879_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931879_001.uasset" SILENT=true
+[2018.09.13-02.17.00:008][409]LogSavePackage: Save=12.94ms
+[2018.09.13-02.17.00:008][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931879_001F2A6CF484B1A7F04EFBAC79CD7DA3F5A.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931879_001.uasset'
+[2018.09.13-02.17.00:011][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931879_001.uasset
+[2018.09.13-02.17.00:023][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931880" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931880.uasset" SILENT=true
+[2018.09.13-02.17.00:034][409]LogSavePackage: Save=9.75ms
+[2018.09.13-02.17.00:034][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931880B6E9D8BF4BDA44F3390EB99C0B5EDA01.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931880.uasset'
+[2018.09.13-02.17.00:038][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931880.uasset
+[2018.09.13-02.17.00:051][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931880_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931880_001.uasset" SILENT=true
+[2018.09.13-02.17.00:060][409]LogSavePackage: Save=8.14ms
+[2018.09.13-02.17.00:061][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931880_001850841974D7980F548827AAACE691375.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931880_001.uasset'
+[2018.09.13-02.17.00:063][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931880_001.uasset
+[2018.09.13-02.17.00:075][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931881" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931881.uasset" SILENT=true
+[2018.09.13-02.17.00:085][409]LogSavePackage: Save=8.87ms
+[2018.09.13-02.17.00:085][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_5449318810D29A4D94275649C887B4E9221B2351C.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931881.uasset'
+[2018.09.13-02.17.00:088][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931881.uasset
+[2018.09.13-02.17.00:099][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931881_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931881_001.uasset" SILENT=true
+[2018.09.13-02.17.00:111][409]LogSavePackage: Save=9.84ms
+[2018.09.13-02.17.00:111][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931881_001A797CEA4417F07C5B47A4C8992CBEFCC.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931881_001.uasset'
+[2018.09.13-02.17.00:113][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931881_001.uasset
+[2018.09.13-02.17.00:124][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931882" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931882.uasset" SILENT=true
+[2018.09.13-02.17.00:135][409]LogSavePackage: Save=9.94ms
+[2018.09.13-02.17.00:135][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931882DF27C6F148CBCBFEA8922285889028B4.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931882.uasset'
+[2018.09.13-02.17.00:137][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931882.uasset
+[2018.09.13-02.17.00:150][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931882_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931882_001.uasset" SILENT=true
+[2018.09.13-02.17.00:160][409]LogSavePackage: Save=8.33ms
+[2018.09.13-02.17.00:160][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931882_001E787D25745D59C2A675F659A03673D8F.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931882_001.uasset'
+[2018.09.13-02.17.00:162][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931882_001.uasset
+[2018.09.13-02.17.00:175][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931883" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931883.uasset" SILENT=true
+[2018.09.13-02.17.00:186][409]LogSavePackage: Save=9.91ms
+[2018.09.13-02.17.00:186][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_54493188354E0BF0040CECEC1A8B82FBD1FAB20AD.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931883.uasset'
+[2018.09.13-02.17.00:188][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931883.uasset
+[2018.09.13-02.17.00:202][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931883_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931883_001.uasset" SILENT=true
+[2018.09.13-02.17.00:212][409]LogSavePackage: Save=8.53ms
+[2018.09.13-02.17.00:212][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931883_001EC9BA672465FD64BE50B2EB61CB1249B.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931883_001.uasset'
+[2018.09.13-02.17.00:214][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931883_001.uasset
+[2018.09.13-02.17.00:227][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931884" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931884.uasset" SILENT=true
+[2018.09.13-02.17.00:237][409]LogSavePackage: Save=9.54ms
+[2018.09.13-02.17.00:237][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_5449318841E34FD6F4BC869BC2EF8608D7547E9CC.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931884.uasset'
+[2018.09.13-02.17.00:240][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931884.uasset
+[2018.09.13-02.17.00:254][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931884_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931884_001.uasset" SILENT=true
+[2018.09.13-02.17.00:263][409]LogSavePackage: Save=8.25ms
+[2018.09.13-02.17.00:263][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931884_001E4B418A54082C8E9B5CFA5B6FAF05F53.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931884_001.uasset'
+[2018.09.13-02.17.00:265][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931884_001.uasset
+[2018.09.13-02.17.00:278][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931885" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931885.uasset" SILENT=true
+[2018.09.13-02.17.00:289][409]LogSavePackage: Save=9.17ms
+[2018.09.13-02.17.00:289][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931885C169B51B4CC16C1DE6D4F1881464E877.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931885.uasset'
+[2018.09.13-02.17.00:291][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931885.uasset
+[2018.09.13-02.17.00:305][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931885_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931885_001.uasset" SILENT=true
+[2018.09.13-02.17.00:318][409]LogSavePackage: Save=11.20ms
+[2018.09.13-02.17.00:318][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931885_0010353BF4F42DFCEC6A5B2408735CC3337.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931885_001.uasset'
+[2018.09.13-02.17.00:320][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931885_001.uasset
+[2018.09.13-02.17.00:332][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931886" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931886.uasset" SILENT=true
+[2018.09.13-02.17.00:341][409]LogSavePackage: Save=8.07ms
+[2018.09.13-02.17.00:341][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931886B6160E94452A73799277C4AC4F897A4D.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931886.uasset'
+[2018.09.13-02.17.00:344][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931886.uasset
+[2018.09.13-02.17.00:356][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931886_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931886_001.uasset" SILENT=true
+[2018.09.13-02.17.00:367][409]LogSavePackage: Save=8.85ms
+[2018.09.13-02.17.00:367][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931886_0017F915E4746B78B3956F133BC9F6736A2.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931886_001.uasset'
+[2018.09.13-02.17.00:369][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931886_001.uasset
+[2018.09.13-02.17.00:384][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931887" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931887.uasset" SILENT=true
+[2018.09.13-02.17.00:394][409]LogSavePackage: Save=8.55ms
+[2018.09.13-02.17.00:394][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_5449318873BFC7DFB4E52C2D457D13F85BAC1E641.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931887.uasset'
+[2018.09.13-02.17.00:396][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931887.uasset
+[2018.09.13-02.17.00:408][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931887_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931887_001.uasset" SILENT=true
+[2018.09.13-02.17.00:419][409]LogSavePackage: Save=9.39ms
+[2018.09.13-02.17.00:419][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931887_001498D2D0C4AA75A41DE4AF7ADB5655D81.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931887_001.uasset'
+[2018.09.13-02.17.00:421][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931887_001.uasset
+[2018.09.13-02.17.00:433][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931890" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931890.uasset" SILENT=true
+[2018.09.13-02.17.00:443][409]LogSavePackage: Save=8.39ms
+[2018.09.13-02.17.00:443][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_5449318900CFC06FD439EAC2B2B595098364034A9.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931890.uasset'
+[2018.09.13-02.17.00:445][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931890.uasset
+[2018.09.13-02.17.00:456][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931890_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931890_001.uasset" SILENT=true
+[2018.09.13-02.17.00:468][409]LogSavePackage: Save=11.07ms
+[2018.09.13-02.17.00:468][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931890_001274198B34AAA231D3D42B189C92F9F69.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931890_001.uasset'
+[2018.09.13-02.17.00:470][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931890_001.uasset
+[2018.09.13-02.17.00:484][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931891" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931891.uasset" SILENT=true
+[2018.09.13-02.17.00:494][409]LogSavePackage: Save=8.53ms
+[2018.09.13-02.17.00:494][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931891B7CC9B4842C66A6FAD740ABFFFC5C1CC.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931891.uasset'
+[2018.09.13-02.17.00:496][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931891.uasset
+[2018.09.13-02.17.00:508][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931891_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931891_001.uasset" SILENT=true
+[2018.09.13-02.17.00:521][409]LogSavePackage: Save=11.34ms
+[2018.09.13-02.17.00:521][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931891_0015CC018F744325AD36224819EDB1A2AFF.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931891_001.uasset'
+[2018.09.13-02.17.00:523][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931891_001.uasset
+[2018.09.13-02.17.00:536][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931892" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931892.uasset" SILENT=true
+[2018.09.13-02.17.00:547][409]LogSavePackage: Save=9.32ms
+[2018.09.13-02.17.00:547][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_54493189290148C39459ADED4382B099AA35746FE.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931892.uasset'
+[2018.09.13-02.17.00:549][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931892.uasset
+[2018.09.13-02.17.00:562][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931892_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931892_001.uasset" SILENT=true
+[2018.09.13-02.17.00:572][409]LogSavePackage: Save=8.76ms
+[2018.09.13-02.17.00:572][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931892_001110D63AA4B0103909759238A3205E453.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931892_001.uasset'
+[2018.09.13-02.17.00:575][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931892_001.uasset
+[2018.09.13-02.17.00:588][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931893" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931893.uasset" SILENT=true
+[2018.09.13-02.17.00:598][409]LogSavePackage: Save=8.70ms
+[2018.09.13-02.17.00:598][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_54493189320E699F84689F53652E3BE9A7DFCD0C4.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931893.uasset'
+[2018.09.13-02.17.00:600][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931893.uasset
+[2018.09.13-02.17.00:612][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931893_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931893_001.uasset" SILENT=true
+[2018.09.13-02.17.00:623][409]LogSavePackage: Save=9.24ms
+[2018.09.13-02.17.00:623][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931893_001BFF8837A471A9662207CCA864C4BBAB7.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931893_001.uasset'
+[2018.09.13-02.17.00:624][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931893_001.uasset
+[2018.09.13-02.17.00:636][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931894" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931894.uasset" SILENT=true
+[2018.09.13-02.17.00:645][409]LogSavePackage: Save=9.63ms
+[2018.09.13-02.17.00:645][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_54493189429018EA54C0B9324DE4721A890DB7745.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931894.uasset'
+[2018.09.13-02.17.00:648][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931894.uasset
+[2018.09.13-02.17.00:659][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931894_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931894_001.uasset" SILENT=true
+[2018.09.13-02.17.00:670][409]LogSavePackage: Save=9.14ms
+[2018.09.13-02.17.00:670][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931894_0018A221119463F3E12A07E69AC8F3C438F.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931894_001.uasset'
+[2018.09.13-02.17.00:672][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931894_001.uasset
+[2018.09.13-02.17.00:685][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931895" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931895.uasset" SILENT=true
+[2018.09.13-02.17.00:696][409]LogSavePackage: Save=8.54ms
+[2018.09.13-02.17.00:696][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931895DEF0B8DA4CA8C2AB59F6CDA4A05F276B.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931895.uasset'
+[2018.09.13-02.17.00:698][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931895.uasset
+[2018.09.13-02.17.00:715][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931895_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931895_001.uasset" SILENT=true
+[2018.09.13-02.17.00:724][409]LogSavePackage: Save=8.16ms
+[2018.09.13-02.17.00:724][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931895_001A9351DC944467A03D4EA31840BB92824.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931895_001.uasset'
+[2018.09.13-02.17.00:726][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931895_001.uasset
+[2018.09.13-02.17.00:737][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931896" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931896.uasset" SILENT=true
+[2018.09.13-02.17.00:747][409]LogSavePackage: Save=8.95ms
+[2018.09.13-02.17.00:747][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_5449318962117977C44CA2822D92DE6B89DAB7504.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931896.uasset'
+[2018.09.13-02.17.00:750][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931896.uasset
+[2018.09.13-02.17.00:760][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_544931896_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931896_001.uasset" SILENT=true
+[2018.09.13-02.17.00:771][409]LogSavePackage: Save=8.38ms
+[2018.09.13-02.17.00:771][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_544931896_0010736E5874E190FCAFAC1DCB78143D928.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931896_001.uasset'
+[2018.09.13-02.17.00:773][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_544931896_001.uasset
+[2018.09.13-02.17.00:786][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_6号館" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_6号館.uasset" SILENT=true
+[2018.09.13-02.17.00:795][409]LogSavePackage: Save=7.98ms
+[2018.09.13-02.17.00:796][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_6号館85A213D148C632ED21B8E0AD449C55AD.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_6号館.uasset'
+[2018.09.13-02.17.00:798][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_6号館.uasset
+[2018.09.13-02.17.00:810][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_6号館_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_6号館_001.uasset" SILENT=true
+[2018.09.13-02.17.00:821][409]LogSavePackage: Save=9.85ms
+[2018.09.13-02.17.00:821][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_6号館_001C2D679294B68ACFDAE867F8F93ECCD09.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_6号館_001.uasset'
+[2018.09.13-02.17.00:823][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_6号館_001.uasset
+[2018.09.13-02.17.00:842][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_Cube" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_Cube.uasset" SILENT=true
+[2018.09.13-02.17.00:855][409]LogSavePackage: Save=11.37ms
+[2018.09.13-02.17.00:855][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_Cube0D6E7FA14423622155E9B5B1CAF0925B.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_Cube.uasset'
+[2018.09.13-02.17.00:858][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_Cube.uasset
+[2018.09.13-02.17.00:890][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_むさしのかん" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_むさしのかん.uasset" SILENT=true
+[2018.09.13-02.17.00:902][409]LogSavePackage: Save=10.10ms
+[2018.09.13-02.17.00:902][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_むさしのかん9514DC014935F747F6B8519BE2549347.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_むさしのかん.uasset'
+[2018.09.13-02.17.00:904][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_むさしのかん.uasset
+[2018.09.13-02.17.00:917][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_むさしのかん_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_むさしのかん_001.uasset" SILENT=true
+[2018.09.13-02.17.00:931][409]LogSavePackage: Save=12.35ms
+[2018.09.13-02.17.00:931][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_むさしのかん_00121F4BC5A4CCF58AADF5F2880347DA402.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_むさしのかん_001.uasset'
+[2018.09.13-02.17.00:932][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_むさしのかん_001.uasset
+[2018.09.13-02.17.00:997][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_グリーンハイツ武蔵境通り４号棟" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_グリーンハイツ武蔵境通り４号棟.uasset" SILENT=true
+[2018.09.13-02.17.01:006][409]LogSavePackage: Save=8.42ms
+[2018.09.13-02.17.01:006][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_グリーンハイツ武蔵境通り４号棟06DA3AB6447BA41AF5AC11B32F8D8D57.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_グリーンハイツ武蔵境通り４号棟.uasset'
+[2018.09.13-02.17.01:008][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_グリーンハイツ武蔵境通り４号棟.uasset
+[2018.09.13-02.17.01:025][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_グリーンハイツ武蔵境通り４号棟_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_グリーンハイツ武蔵境通り４号棟_001.uasset" SILENT=true
+[2018.09.13-02.17.01:035][409]LogSavePackage: Save=9.66ms
+[2018.09.13-02.17.01:036][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_グリーンハイツ武蔵境通り４号棟_0012FF401E540BF9E4DA21E8CA1FA6E15DA.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_グリーンハイツ武蔵境通り４号棟_001.uasset'
+[2018.09.13-02.17.01:037][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_グリーンハイツ武蔵境通り４号棟_001.uasset
+[2018.09.13-02.17.01:053][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_グリーンハイツ武蔵境通り５号棟" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_グリーンハイツ武蔵境通り５号棟.uasset" SILENT=true
+[2018.09.13-02.17.01:067][409]LogSavePackage: Save=12.01ms
+[2018.09.13-02.17.01:067][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_グリーンハイツ武蔵境通り５号棟A4BC7DE4427046C4A08C0F8FEA3573F4.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_グリーンハイツ武蔵境通り５号棟.uasset'
+[2018.09.13-02.17.01:069][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_グリーンハイツ武蔵境通り５号棟.uasset
+[2018.09.13-02.17.01:082][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_グリーンハイツ武蔵境通り５号棟_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_グリーンハイツ武蔵境通り５号棟_001.uasset" SILENT=true
+[2018.09.13-02.17.01:095][409]LogSavePackage: Save=11.20ms
+[2018.09.13-02.17.01:095][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_グリーンハイツ武蔵境通り５号棟_00119D95BB340D76C0C8C32C094B04A7E89.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_グリーンハイツ武蔵境通り５号棟_001.uasset'
+[2018.09.13-02.17.01:098][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_グリーンハイツ武蔵境通り５号棟_001.uasset
+[2018.09.13-02.17.01:112][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_グリーンハイツ武蔵境通り６号棟" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_グリーンハイツ武蔵境通り６号棟.uasset" SILENT=true
+[2018.09.13-02.17.01:122][409]LogSavePackage: Save=9.19ms
+[2018.09.13-02.17.01:122][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_グリーンハイツ武蔵境通り６号棟33F3E0724E369C4210DC8C9DBBC51ECF.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_グリーンハイツ武蔵境通り６号棟.uasset'
+[2018.09.13-02.17.01:124][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_グリーンハイツ武蔵境通り６号棟.uasset
+[2018.09.13-02.17.01:136][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_グリーンハイツ武蔵境通り６号棟_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_グリーンハイツ武蔵境通り６号棟_001.uasset" SILENT=true
+[2018.09.13-02.17.01:150][409]LogSavePackage: Save=11.87ms
+[2018.09.13-02.17.01:150][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_グリーンハイツ武蔵境通り６号棟_0011AD69FD14E6C93B58921A2B8F26C1BC7.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_グリーンハイツ武蔵境通り６号棟_001.uasset'
+[2018.09.13-02.17.01:153][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_グリーンハイツ武蔵境通り６号棟_001.uasset
+[2018.09.13-02.17.01:168][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_シュロス武蔵野" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_シュロス武蔵野.uasset" SILENT=true
+[2018.09.13-02.17.01:179][409]LogSavePackage: Save=9.23ms
+[2018.09.13-02.17.01:179][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_シュロス武蔵野D64591FC4B674D7E34D8BD9E9819AA29.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_シュロス武蔵野.uasset'
+[2018.09.13-02.17.01:182][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_シュロス武蔵野.uasset
+[2018.09.13-02.17.01:196][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_シュロス武蔵野_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_シュロス武蔵野_001.uasset" SILENT=true
+[2018.09.13-02.17.01:206][409]LogSavePackage: Save=9.49ms
+[2018.09.13-02.17.01:206][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_シュロス武蔵野_001AB27B3504BF06EBBE0DAFD82E0AA1E60.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_シュロス武蔵野_001.uasset'
+[2018.09.13-02.17.01:208][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_シュロス武蔵野_001.uasset
+[2018.09.13-02.17.01:226][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_学友棟" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_学友棟.uasset" SILENT=true
+[2018.09.13-02.17.01:236][409]LogSavePackage: Save=8.69ms
+[2018.09.13-02.17.01:236][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_学友棟C91CB8654F241CD5AE37F6B0FF793716.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_学友棟.uasset'
+[2018.09.13-02.17.01:238][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_学友棟.uasset
+[2018.09.13-02.17.01:250][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_学友棟_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_学友棟_001.uasset" SILENT=true
+[2018.09.13-02.17.01:262][409]LogSavePackage: Save=11.21ms
+[2018.09.13-02.17.01:262][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_学友棟_001D70EB71948CEF57E699725AFCE03C7C9.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_学友棟_001.uasset'
+[2018.09.13-02.17.01:265][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_学友棟_001.uasset
+[2018.09.13-02.17.01:279][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_実習棟" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_実習棟.uasset" SILENT=true
+[2018.09.13-02.17.01:315][409]LogSavePackage: Save=8.56ms
+[2018.09.13-02.17.01:315][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_実習棟86C2446C44C3B10484E0028A5D04B114.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_実習棟.uasset'
+[2018.09.13-02.17.01:317][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_実習棟.uasset
+[2018.09.13-02.17.01:331][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_実習棟_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_実習棟_001.uasset" SILENT=true
+[2018.09.13-02.17.01:342][409]LogSavePackage: Save=9.00ms
+[2018.09.13-02.17.01:342][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_実習棟_001C36D18E341736E259B9CBDA9E04E9659.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_実習棟_001.uasset'
+[2018.09.13-02.17.01:344][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_実習棟_001.uasset
+[2018.09.13-02.17.01:368][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_本館" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_本館.uasset" SILENT=true
+[2018.09.13-02.17.01:380][409]LogSavePackage: Save=11.40ms
+[2018.09.13-02.17.01:381][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_本館DA27F53840C5EA43A93A4B84CCBB4375.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_本館.uasset'
+[2018.09.13-02.17.01:383][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_本館.uasset
+[2018.09.13-02.17.01:403][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_本館_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_本館_001.uasset" SILENT=true
+[2018.09.13-02.17.01:416][409]LogSavePackage: Save=11.47ms
+[2018.09.13-02.17.01:416][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_本館_0019114519A4BB4F9F55AC8AEAA80AE1EE0.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_本館_001.uasset'
+[2018.09.13-02.17.01:418][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_本館_001.uasset
+[2018.09.13-02.17.01:439][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_武蔵野大学図書館" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_武蔵野大学図書館.uasset" SILENT=true
+[2018.09.13-02.17.01:450][409]LogSavePackage: Save=9.70ms
+[2018.09.13-02.17.01:450][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_武蔵野大学図書館1B860B3642E9EC3055E91597A633683E.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_武蔵野大学図書館.uasset'
+[2018.09.13-02.17.01:453][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_武蔵野大学図書館.uasset
+[2018.09.13-02.17.01:474][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_武蔵野大学図書館_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_武蔵野大学図書館_001.uasset" SILENT=true
+[2018.09.13-02.17.01:487][409]LogSavePackage: Save=11.00ms
+[2018.09.13-02.17.01:487][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_武蔵野大学図書館_00130DB465D4424AAAE76BFCCA4E9104DC5.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_武蔵野大学図書館_001.uasset'
+[2018.09.13-02.17.01:490][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_武蔵野大学図書館_001.uasset
+[2018.09.13-02.17.01:511][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_第１体育館" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_第１体育館.uasset" SILENT=true
+[2018.09.13-02.17.01:535][409]LogSavePackage: Save=20.68ms
+[2018.09.13-02.17.01:535][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_第１体育館B582C709457B3ACA627F17BD3287742B.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_第１体育館.uasset'
+[2018.09.13-02.17.01:538][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_第１体育館.uasset
+[2018.09.13-02.17.01:555][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_第１体育館_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_第１体育館_001.uasset" SILENT=true
+[2018.09.13-02.17.01:571][409]LogSavePackage: Save=15.01ms
+[2018.09.13-02.17.01:571][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_第１体育館_001C18F65A344906C2366E8178A537D86AC.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_第１体育館_001.uasset'
+[2018.09.13-02.17.01:574][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_第１体育館_001.uasset
+[2018.09.13-02.17.01:598][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_第２体育館" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_第２体育館.uasset" SILENT=true
+[2018.09.13-02.17.01:612][409]LogSavePackage: Save=12.46ms
+[2018.09.13-02.17.01:612][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_第２体育館1B21172A47381D8A8835F1B201ED744E.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_第２体育館.uasset'
+[2018.09.13-02.17.01:615][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_第２体育館.uasset
+[2018.09.13-02.17.01:636][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_第２体育館_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_第２体育館_001.uasset" SILENT=true
+[2018.09.13-02.17.01:648][409]LogSavePackage: Save=10.70ms
+[2018.09.13-02.17.01:648][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_第２体育館_001650C7CF541FB8B2F324BE7AEB9DB5A8F.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_第２体育館_001.uasset'
+[2018.09.13-02.17.01:650][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_第２体育館_001.uasset
+[2018.09.13-02.17.01:666][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_第３体育館" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_第３体育館.uasset" SILENT=true
+[2018.09.13-02.17.01:676][409]LogSavePackage: Save=8.52ms
+[2018.09.13-02.17.01:676][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_第３体育館2E73BDA444901B5ED7106496E8DDBCB2.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_第３体育館.uasset'
+[2018.09.13-02.17.01:678][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_第３体育館.uasset
+[2018.09.13-02.17.01:695][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_第３体育館_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_第３体育館_001.uasset" SILENT=true
+[2018.09.13-02.17.01:708][409]LogSavePackage: Save=10.99ms
+[2018.09.13-02.17.01:708][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_第３体育館_00171E1BD104FEBE70521EE1CB62A1E64CE.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_第３体育館_001.uasset'
+[2018.09.13-02.17.01:710][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_第３体育館_001.uasset
+[2018.09.13-02.17.01:731][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_紅雲台" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_紅雲台.uasset" SILENT=true
+[2018.09.13-02.17.01:742][409]LogSavePackage: Save=9.85ms
+[2018.09.13-02.17.01:742][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_紅雲台C7D2C44F4DBF3BEF91E0BF81C80F385A.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_紅雲台.uasset'
+[2018.09.13-02.17.01:745][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_紅雲台.uasset
+[2018.09.13-02.17.01:765][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_紅雲台_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_紅雲台_001.uasset" SILENT=true
+[2018.09.13-02.17.01:779][409]LogSavePackage: Save=12.54ms
+[2018.09.13-02.17.01:779][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_紅雲台_001AED4D8124F5AE29DE5B57CBB9DD31E7B.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_紅雲台_001.uasset'
+[2018.09.13-02.17.01:782][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_紅雲台_001.uasset
+[2018.09.13-02.17.01:800][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_４号館" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_４号館.uasset" SILENT=true
+[2018.09.13-02.17.01:814][409]LogSavePackage: Save=12.22ms
+[2018.09.13-02.17.01:814][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_４号館2A58BD5647514D72BEDD469FDFAAA6F0.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_４号館.uasset'
+[2018.09.13-02.17.01:817][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_４号館.uasset
+[2018.09.13-02.17.01:833][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_４号館_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_４号館_001.uasset" SILENT=true
+[2018.09.13-02.17.01:846][409]LogSavePackage: Save=11.52ms
+[2018.09.13-02.17.01:846][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_４号館_00187A560F14DDC1A57285F308FC01DFD77.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_４号館_001.uasset'
+[2018.09.13-02.17.01:849][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_４号館_001.uasset
+[2018.09.13-02.17.01:863][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_５号館" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_５号館.uasset" SILENT=true
+[2018.09.13-02.17.01:874][409]LogSavePackage: Save=9.40ms
+[2018.09.13-02.17.01:874][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_５号館23469BF149BD2F1AD57C2E80436E0F1D.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_５号館.uasset'
+[2018.09.13-02.17.01:877][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_５号館.uasset
+[2018.09.13-02.17.01:897][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_５号館_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_５号館_001.uasset" SILENT=true
+[2018.09.13-02.17.01:909][409]LogSavePackage: Save=10.75ms
+[2018.09.13-02.17.01:909][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_５号館_00164C0BC914EE017F3FA58DF8E9B6D72D9.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_５号館_001.uasset'
+[2018.09.13-02.17.01:912][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_５号館_001.uasset
+[2018.09.13-02.17.01:932][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_７号館" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_７号館.uasset" SILENT=true
+[2018.09.13-02.17.01:943][409]LogSavePackage: Save=9.47ms
+[2018.09.13-02.17.01:943][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_７号館47B17CAA4D9773AD0B6A3DA72A1EBAA8.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_７号館.uasset'
+[2018.09.13-02.17.01:945][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_７号館.uasset
+[2018.09.13-02.17.01:965][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_７号館_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_７号館_001.uasset" SILENT=true
+[2018.09.13-02.17.01:992][409]LogSavePackage: Save=25.89ms
+[2018.09.13-02.17.01:992][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_７号館_0014436D63848B2022E6E5536A5FC9E6F67.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_７号館_001.uasset'
+[2018.09.13-02.17.01:995][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_７号館_001.uasset
+[2018.09.13-02.17.02:016][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_８号館" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_８号館.uasset" SILENT=true
+[2018.09.13-02.17.02:029][409]LogSavePackage: Save=11.58ms
+[2018.09.13-02.17.02:029][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_８号館DBFCED454E08A47BCF0ED5AE87BB6A38.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_８号館.uasset'
+[2018.09.13-02.17.02:032][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_８号館.uasset
+[2018.09.13-02.17.02:050][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mesh/City_８号館_001" FILE="../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_８号館_001.uasset" SILENT=true
+[2018.09.13-02.17.02:064][409]LogSavePackage: Save=12.40ms
+[2018.09.13-02.17.02:064][409]LogSavePackage: Moving '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Saved/City_８号館_00147DFAAC940B354CCAB82B6AD5B8E3B45.tmp' to '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_８号館_001.uasset'
+[2018.09.13-02.17.02:067][409]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/Assets/Mesh/City_８号館_001.uasset
+[2018.09.13-02.17.05:862][409]LogSlate: Window 'FPSPrototype - Unreal Editor' being destroyed
+[2018.09.13-02.17.07:401][410]Cmd: QUIT_EDITOR
+[2018.09.13-02.17.08:590][410]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.13-02.17.08:788][410]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.13-02.17.08:844][410]LogExit: Preparing to exit.
+[2018.09.13-02.17.13:062][410]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Joe/Desktop/Github/gamefps/fps-proto/Content/', and we were unable to create a new request.
+[2018.09.13-02.17.14:638][410]LogExit: Editor shut down
+[2018.09.13-02.17.14:769][410]LogExit: Transaction tracking system shut down
+[2018.09.13-02.17.14:928][410]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020d5ce2fd80, Size=560
+[2018.09.13-02.17.14:928][410]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020d5ce4d6c0, Size=64
+[2018.09.13-02.17.14:928][410]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020d5ce42500, Size=760
+[2018.09.13-02.17.14:928][410]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020d5cd7fba0, Size=80
+[2018.09.13-02.17.14:928][410]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020d5ca76a48, Size=40
+[2018.09.13-02.17.14:928][410]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020d5cd4f5f0, Size=56
+[2018.09.13-02.17.14:928][410]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020d5cd5b560, Size=32
+[2018.09.13-02.17.14:928][410]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020d5cd35600, Size=728
+[2018.09.13-02.17.14:993][410]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020d280f4260, Size=4
+[2018.09.13-02.17.14:993][410]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020d280f4258, Size=4
+[2018.09.13-02.17.14:997][410]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020df25df760, Size=32
+[2018.09.13-02.17.15:884][410]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.09.13-02.17.15:884][410]LogDirectoryWatcher: A directory notification for '../../../../../Users/Joe/Desktop/Github/gamefps/fps-proto/Content/' was aborted.
+[2018.09.13-02.17.15:884][410]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.09.13-02.17.15:884][410]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.09.13-02.17.15:884][410]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.09.13-02.17.15:884][410]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
